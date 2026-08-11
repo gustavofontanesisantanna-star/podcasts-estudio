@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>La Atalaya — estudio semanal</title>
+  <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
+  <language>es</language>
+  <description>Análisis en profundidad del artículo de estudio de La Atalaya de cada semana. Audio generado con NotebookLM, en español. Uso personal.</description>
+  <itunes:author>NotebookLM (uso personal)</itunes:author>
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/atalaya.png"/>
+  <item>
+    <title>Cómo ser leales ante las pruebas de fe (10-16 ago 2026)</title>
+    <guid isPermaLink="false">w202606_art33</guid>
+    <pubDate>Tue, 11 Aug 2026 11:02:32 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/atalaya-w202606-art33.m4a" length="33736512" type="audio/mp4"/>
+    <itunes:summary>Cómo ser leales ante las pruebas de fe (10-16 ago 2026)</itunes:summary>
+  </item>
+  <item>
+    <title>Cómo seguir siendo amigos de los hermanos (17-23 De Agosto De 2026)</title>
+    <guid isPermaLink="false">w_2026-08-17</guid>
+    <pubDate>Tue, 11 Aug 2026 11:16:33 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/atalaya-w-2026-08-17.m4a" length="39374511" type="audio/mp4"/>
+    <itunes:summary>Cómo seguir siendo amigos de los hermanos (17-23 De Agosto De 2026)</itunes:summary>
+  </item>
+</channel>
+</rss>

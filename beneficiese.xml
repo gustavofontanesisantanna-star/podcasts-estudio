@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Benefíciese — podcast por lecciones</title>
+  <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
+  <language>es</language>
+  <description>Un episodio de análisis profundo por cada lección del libro &#x27;Benefíciese de la Escuela del Ministerio Teocrático&#x27;. Audio generado con NotebookLM, en español. Uso personal.</description>
+  <itunes:author>NotebookLM (uso personal)</itunes:author>
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/beneficiese.png"/>
+  <item>
+    <title>Lección 1 · Lectura precisa</title>
+    <guid isPermaLink="false">be_01</guid>
+    <pubDate>Tue, 11 Aug 2026 11:02:47 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec01-lectura-precisa.m4a" length="46062690" type="audio/mp4"/>
+    <itunes:summary>Lectura precisa</itunes:summary>
+    <itunes:episode>1</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 2 · Articulación clara</title>
+    <guid isPermaLink="false">be_02</guid>
+    <pubDate>Tue, 11 Aug 2026 11:22:10 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec02-articulacion-clara.m4a" length="53093808" type="audio/mp4"/>
+    <itunes:summary>Articulación clara</itunes:summary>
+    <itunes:episode>2</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 3 · Pronunciación correcta</title>
+    <guid isPermaLink="false">be_03</guid>
+    <pubDate>Tue, 11 Aug 2026 11:38:41 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec03-pronunciacion-correcta.m4a" length="43826966" type="audio/mp4"/>
+    <itunes:summary>Pronunciación correcta</itunes:summary>
+    <itunes:episode>3</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 28 · Tono conversacional</title>
+    <guid isPermaLink="false">be_28</guid>
+    <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec28-tono-conversacional.m4a" length="43008537" type="audio/mp4"/>
+    <itunes:summary>Tono conversacional</itunes:summary>
+    <itunes:episode>28</itunes:episode>
+  </item>
+</channel>
+</rss>
