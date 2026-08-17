@@ -49,6 +49,14 @@
     <itunes:episode>5</itunes:episode>
   </item>
   <item>
+    <title>Lección 6 · Énfasis acertado</title>
+    <guid isPermaLink="false">be_06</guid>
+    <pubDate>Mon, 17 Aug 2026 10:26:56 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec06-enfasis-acertado.m4a" length="47079492" type="audio/mp4"/>
+    <itunes:summary>Énfasis acertado</itunes:summary>
+    <itunes:episode>6</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -71,6 +79,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec30-interes-en-los-oyentes.m4a" length="75892291" type="audio/mp4"/>
     <itunes:summary>Interés en los oyentes</itunes:summary>
     <itunes:episode>30</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 31 · Respeto a los demás</title>
+    <guid isPermaLink="false">be_31</guid>
+    <pubDate>Mon, 17 Aug 2026 10:27:09 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec31-respeto-a-los-demas.m4a" length="61229718" type="audio/mp4"/>
+    <itunes:summary>Respeto a los demás</itunes:summary>
+    <itunes:episode>31</itunes:episode>
   </item>
 </channel>
 </rss>
