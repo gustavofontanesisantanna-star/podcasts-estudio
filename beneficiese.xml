@@ -33,12 +33,44 @@
     <itunes:episode>3</itunes:episode>
   </item>
   <item>
+    <title>Lección 4 · Fluidez</title>
+    <guid isPermaLink="false">be_04</guid>
+    <pubDate>Mon, 17 Aug 2026 09:55:10 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec04-fluidez.m4a" length="50222090" type="audio/mp4"/>
+    <itunes:summary>Fluidez</itunes:summary>
+    <itunes:episode>4</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 5 · Uso adecuado de las pausas</title>
+    <guid isPermaLink="false">be_05</guid>
+    <pubDate>Mon, 17 Aug 2026 10:05:34 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec05-uso-adecuado-de-las-pausas.m4a" length="32236599" type="audio/mp4"/>
+    <itunes:summary>Uso adecuado de las pausas</itunes:summary>
+    <itunes:episode>5</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec28-tono-conversacional.m4a" length="43008537" type="audio/mp4"/>
     <itunes:summary>Tono conversacional</itunes:summary>
     <itunes:episode>28</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 29 · Calidad de la voz</title>
+    <guid isPermaLink="false">be_29</guid>
+    <pubDate>Mon, 17 Aug 2026 09:52:44 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec29-calidad-de-la-voz.m4a" length="31647851" type="audio/mp4"/>
+    <itunes:summary>Calidad de la voz</itunes:summary>
+    <itunes:episode>29</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 30 · Interés en los oyentes</title>
+    <guid isPermaLink="false">be_30</guid>
+    <pubDate>Mon, 17 Aug 2026 10:11:00 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec30-interes-en-los-oyentes.m4a" length="75892291" type="audio/mp4"/>
+    <itunes:summary>Interés en los oyentes</itunes:summary>
+    <itunes:episode>30</itunes:episode>
   </item>
 </channel>
 </rss>
