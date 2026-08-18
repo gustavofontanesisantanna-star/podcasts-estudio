@@ -57,6 +57,14 @@
     <itunes:episode>6</itunes:episode>
   </item>
   <item>
+    <title>Lección 7 · Énfasis en las ideas principales</title>
+    <guid isPermaLink="false">be_07</guid>
+    <pubDate>Tue, 18 Aug 2026 19:46:21 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec07-enfasis-en-las-ideas-principales.m4a" length="25042481" type="audio/mp4"/>
+    <itunes:summary>Énfasis en las ideas principales</itunes:summary>
+    <itunes:episode>7</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -87,6 +95,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec31-respeto-a-los-demas.m4a" length="61229718" type="audio/mp4"/>
     <itunes:summary>Respeto a los demás</itunes:summary>
     <itunes:episode>31</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 32 · Expresarse con convicción</title>
+    <guid isPermaLink="false">be_32</guid>
+    <pubDate>Tue, 18 Aug 2026 19:49:38 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec32-expresarse-con-conviccion.m4a" length="26964981" type="audio/mp4"/>
+    <itunes:summary>Expresarse con convicción</itunes:summary>
+    <itunes:episode>32</itunes:episode>
   </item>
 </channel>
 </rss>
