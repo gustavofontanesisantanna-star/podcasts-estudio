@@ -65,6 +65,14 @@
     <itunes:episode>7</itunes:episode>
   </item>
   <item>
+    <title>Lección 8 · Volumen adecuado</title>
+    <guid isPermaLink="false">be_08</guid>
+    <pubDate>Wed, 19 Aug 2026 12:50:38 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec08-volumen-adecuado.m4a" length="54199469" type="audio/mp4"/>
+    <itunes:summary>Volumen adecuado</itunes:summary>
+    <itunes:episode>8</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -103,6 +111,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec32-expresarse-con-conviccion.m4a" length="26964981" type="audio/mp4"/>
     <itunes:summary>Expresarse con convicción</itunes:summary>
     <itunes:episode>32</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 33 · Hablar con tacto, pero con firmeza</title>
+    <guid isPermaLink="false">be_33</guid>
+    <pubDate>Wed, 19 Aug 2026 12:50:53 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec33-hablar-con-tacto-pero-con-firmeza.m4a" length="44418708" type="audio/mp4"/>
+    <itunes:summary>Hablar con tacto, pero con firmeza</itunes:summary>
+    <itunes:episode>33</itunes:episode>
   </item>
 </channel>
 </rss>
