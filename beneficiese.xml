@@ -73,6 +73,14 @@
     <itunes:episode>8</itunes:episode>
   </item>
   <item>
+    <title>Lección 9 · Modulación</title>
+    <guid isPermaLink="false">be_09</guid>
+    <pubDate>Wed, 19 Aug 2026 19:50:08 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec09-modulacion.m4a" length="39969978" type="audio/mp4"/>
+    <itunes:summary>Modulación</itunes:summary>
+    <itunes:episode>9</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -119,6 +127,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec33-hablar-con-tacto-pero-con-firmeza.m4a" length="44418708" type="audio/mp4"/>
     <itunes:summary>Hablar con tacto, pero con firmeza</itunes:summary>
     <itunes:episode>33</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 34 · Ser edificante y positivo</title>
+    <guid isPermaLink="false">be_34</guid>
+    <pubDate>Wed, 19 Aug 2026 19:50:21 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec34-ser-edificante-y-positivo.m4a" length="56170591" type="audio/mp4"/>
+    <itunes:summary>Ser edificante y positivo</itunes:summary>
+    <itunes:episode>34</itunes:episode>
   </item>
 </channel>
 </rss>
