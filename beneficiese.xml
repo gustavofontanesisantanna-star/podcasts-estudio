@@ -81,6 +81,14 @@
     <itunes:episode>9</itunes:episode>
   </item>
   <item>
+    <title>Lección 10 · Entusiasmo</title>
+    <guid isPermaLink="false">be_10</guid>
+    <pubDate>Thu, 20 Aug 2026 09:50:20 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec10-entusiasmo.m4a" length="41694204" type="audio/mp4"/>
+    <itunes:summary>Entusiasmo</itunes:summary>
+    <itunes:episode>10</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -135,6 +143,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec34-ser-edificante-y-positivo.m4a" length="56170591" type="audio/mp4"/>
     <itunes:summary>Ser edificante y positivo</itunes:summary>
     <itunes:episode>34</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 35 · Repetición para dar énfasis</title>
+    <guid isPermaLink="false">be_35</guid>
+    <pubDate>Thu, 20 Aug 2026 09:53:44 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec35-repeticion-para-dar-enfasis.m4a" length="47173726" type="audio/mp4"/>
+    <itunes:summary>Repetición para dar énfasis</itunes:summary>
+    <itunes:episode>35</itunes:episode>
   </item>
 </channel>
 </rss>
