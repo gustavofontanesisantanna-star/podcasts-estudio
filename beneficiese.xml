@@ -89,6 +89,14 @@
     <itunes:episode>10</itunes:episode>
   </item>
   <item>
+    <title>Lección 11 · Afecto y otros sentimientos</title>
+    <guid isPermaLink="false">be_11</guid>
+    <pubDate>Thu, 20 Aug 2026 19:49:26 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec11-afecto-y-otros-sentimientos.m4a" length="38675861" type="audio/mp4"/>
+    <itunes:summary>Afecto y otros sentimientos</itunes:summary>
+    <itunes:episode>11</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -151,6 +159,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec35-repeticion-para-dar-enfasis.m4a" length="47173726" type="audio/mp4"/>
     <itunes:summary>Repetición para dar énfasis</itunes:summary>
     <itunes:episode>35</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 36 · Desarrollo del tema</title>
+    <guid isPermaLink="false">be_36</guid>
+    <pubDate>Thu, 20 Aug 2026 19:49:39 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec36-desarrollo-del-tema.m4a" length="47891075" type="audio/mp4"/>
+    <itunes:summary>Desarrollo del tema</itunes:summary>
+    <itunes:episode>36</itunes:episode>
   </item>
 </channel>
 </rss>
