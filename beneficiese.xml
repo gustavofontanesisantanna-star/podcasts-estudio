@@ -105,6 +105,14 @@
     <itunes:episode>12</itunes:episode>
   </item>
   <item>
+    <title>Lección 13 · Contacto visual</title>
+    <guid isPermaLink="false">be_13</guid>
+    <pubDate>Fri, 21 Aug 2026 11:02:19 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec13-contacto-visual.m4a" length="30047755" type="audio/mp4"/>
+    <itunes:summary>Contacto visual</itunes:summary>
+    <itunes:episode>13</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>

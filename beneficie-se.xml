@@ -16,5 +16,13 @@
     <itunes:summary>Leitura exata</itunes:summary>
     <itunes:episode>1</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 2 · Articulação clara</title>
+    <guid isPermaLink="false">pt_be_02</guid>
+    <pubDate>Fri, 21 Aug 2026 11:07:43 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est02-articulacao-clara.m4a" length="44729054" type="audio/mp4"/>
+    <itunes:summary>Articulação clara</itunes:summary>
+    <itunes:episode>2</itunes:episode>
+  </item>
 </channel>
 </rss>
