@@ -3,7 +3,7 @@
 <channel>
   <title>Benefíciese — podcast por lecciones</title>
   <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
-  <language>es</language>
+  <language>es-ES</language>
   <description>Un episodio de análisis profundo por cada lección del libro &#x27;Benefíciese de la Escuela del Ministerio Teocrático&#x27;. Audio generado con NotebookLM, en español. Uso personal.</description>
   <itunes:author>NotebookLM (uso personal)</itunes:author>
   <itunes:block>Yes</itunes:block>
@@ -95,6 +95,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec11-afecto-y-otros-sentimientos.m4a" length="38675861" type="audio/mp4"/>
     <itunes:summary>Afecto y otros sentimientos</itunes:summary>
     <itunes:episode>11</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 12 · Ademanes y expresiones faciales</title>
+    <guid isPermaLink="false">be_12</guid>
+    <pubDate>Fri, 21 Aug 2026 10:38:41 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec12-ademanes-y-expresiones-faciales.m4a" length="49543618" type="audio/mp4"/>
+    <itunes:summary>Ademanes y expresiones faciales</itunes:summary>
+    <itunes:episode>12</itunes:episode>
   </item>
   <item>
     <title>Lección 28 · Tono conversacional</title>

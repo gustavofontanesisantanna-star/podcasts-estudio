@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Beneficie-se — podcast por estudos</title>
+  <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
+  <language>pt-BR</language>
+  <description>Um episódio de análise profunda para cada estudo do livro &#x27;Beneficie-se da Escola do Ministério Teocrático&#x27;. Áudio gerado com o NotebookLM, em português. Uso pessoal.</description>
+  <itunes:author>NotebookLM (uso personal)</itunes:author>
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/beneficie-se.png"/>
+  <item>
+    <title>Estudo 1 · Leitura exata</title>
+    <guid isPermaLink="false">pt_be_01</guid>
+    <pubDate>Fri, 21 Aug 2026 10:42:47 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est01-leitura-exata.m4a" length="33204563" type="audio/mp4"/>
+    <itunes:summary>Leitura exata</itunes:summary>
+    <itunes:episode>1</itunes:episode>
+  </item>
+</channel>
+</rss>

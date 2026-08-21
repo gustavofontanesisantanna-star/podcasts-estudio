@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>A Sentinela — estudo semanal</title>
+  <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
+  <language>pt-BR</language>
+  <description>Análise em profundidade do artigo de estudo de A Sentinela de cada semana. Áudio gerado com o NotebookLM, em português. Uso pessoal.</description>
+  <itunes:author>NotebookLM (uso personal)</itunes:author>
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/sentinela.png"/>
+  <item>
+    <title>Como manter a amizade com nossos irmãos (17 a 23 de agosto de 2026)</title>
+    <guid isPermaLink="false">pt_w_2026-08-17</guid>
+    <pubDate>Fri, 21 Aug 2026 10:42:27 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/sentinela-pt-w-2026-08-17.m4a" length="52947957" type="audio/mp4"/>
+    <itunes:summary>Como manter a amizade com nossos irmãos (17 a 23 de agosto de 2026)</itunes:summary>
+  </item>
+</channel>
+</rss>
