@@ -121,6 +121,14 @@
     <itunes:episode>14</itunes:episode>
   </item>
   <item>
+    <title>Lección 15 · Buena apariencia</title>
+    <guid isPermaLink="false">be_15</guid>
+    <pubDate>Sat, 22 Aug 2026 16:04:19 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec15-buena-apariencia.m4a" length="30724824" type="audio/mp4"/>
+    <itunes:summary>Buena apariencia</itunes:summary>
+    <itunes:episode>15</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -191,6 +199,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec36-desarrollo-del-tema.m4a" length="47891075" type="audio/mp4"/>
     <itunes:summary>Desarrollo del tema</itunes:summary>
     <itunes:episode>36</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 37 · Destacar los puntos principales</title>
+    <guid isPermaLink="false">be_37</guid>
+    <pubDate>Sat, 22 Aug 2026 16:07:33 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec37-destacar-los-puntos-principales.m4a" length="48362514" type="audio/mp4"/>
+    <itunes:summary>Destacar los puntos principales</itunes:summary>
+    <itunes:episode>37</itunes:episode>
   </item>
 </channel>
 </rss>
