@@ -32,5 +32,13 @@
     <itunes:summary>Pronúncia correta</itunes:summary>
     <itunes:episode>3</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 4 · Fluência</title>
+    <guid isPermaLink="false">pt_be_04</guid>
+    <pubDate>Sat, 22 Aug 2026 19:47:02 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est04-fluencia.m4a" length="33660167" type="audio/mp4"/>
+    <itunes:summary>Fluência</itunes:summary>
+    <itunes:episode>4</itunes:episode>
+  </item>
 </channel>
 </rss>
