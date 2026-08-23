@@ -137,6 +137,14 @@
     <itunes:episode>16</itunes:episode>
   </item>
   <item>
+    <title>Lección 17 · Buen uso del micrófono</title>
+    <guid isPermaLink="false">be_17</guid>
+    <pubDate>Sun, 23 Aug 2026 19:47:37 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec17-buen-uso-del-microfono.m4a" length="35150356" type="audio/mp4"/>
+    <itunes:summary>Buen uso del micrófono</itunes:summary>
+    <itunes:episode>17</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -215,6 +223,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec37-destacar-los-puntos-principales.m4a" length="48362514" type="audio/mp4"/>
     <itunes:summary>Destacar los puntos principales</itunes:summary>
     <itunes:episode>37</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 39 · Conclusiones eficaces</title>
+    <guid isPermaLink="false">be_39</guid>
+    <pubDate>Sun, 23 Aug 2026 19:47:24 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec39-conclusiones-eficaces.m4a" length="27639800" type="audio/mp4"/>
+    <itunes:summary>Conclusiones eficaces</itunes:summary>
+    <itunes:episode>39</itunes:episode>
   </item>
 </channel>
 </rss>

@@ -40,5 +40,13 @@
     <itunes:summary>Fluência</itunes:summary>
     <itunes:episode>4</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 5 · Uso correto de pausas</title>
+    <guid isPermaLink="false">pt_be_05</guid>
+    <pubDate>Sun, 23 Aug 2026 19:50:56 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est05-uso-correto-de-pausas.m4a" length="43577919" type="audio/mp4"/>
+    <itunes:summary>Uso correto de pausas</itunes:summary>
+    <itunes:episode>5</itunes:episode>
+  </item>
 </channel>
 </rss>
