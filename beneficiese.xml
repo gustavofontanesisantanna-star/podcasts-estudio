@@ -145,6 +145,14 @@
     <itunes:episode>17</itunes:episode>
   </item>
   <item>
+    <title>Lección 18 · Uso de la Biblia para contestar preguntas</title>
+    <guid isPermaLink="false">be_18</guid>
+    <pubDate>Mon, 24 Aug 2026 19:53:59 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec18-uso-de-la-biblia-para-contestar-preguntas.m4a" length="55164487" type="audio/mp4"/>
+    <itunes:summary>Uso de la Biblia para contestar preguntas</itunes:summary>
+    <itunes:episode>18</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -231,6 +239,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec39-conclusiones-eficaces.m4a" length="27639800" type="audio/mp4"/>
     <itunes:summary>Conclusiones eficaces</itunes:summary>
     <itunes:episode>39</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 40 · Exactitud en las afirmaciones</title>
+    <guid isPermaLink="false">be_40</guid>
+    <pubDate>Mon, 24 Aug 2026 19:57:38 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec40-exactitud-en-las-afirmaciones.m4a" length="79628132" type="audio/mp4"/>
+    <itunes:summary>Exactitud en las afirmaciones</itunes:summary>
+    <itunes:episode>40</itunes:episode>
   </item>
 </channel>
 </rss>

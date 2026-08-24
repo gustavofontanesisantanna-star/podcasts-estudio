@@ -48,5 +48,13 @@
     <itunes:summary>Uso correto de pausas</itunes:summary>
     <itunes:episode>5</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 6 · Ênfase segundo o sentido</title>
+    <guid isPermaLink="false">pt_be_06</guid>
+    <pubDate>Mon, 24 Aug 2026 19:57:24 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est06-enfase-segundo-o-sentido.m4a" length="78658644" type="audio/mp4"/>
+    <itunes:summary>Ênfase segundo o sentido</itunes:summary>
+    <itunes:episode>6</itunes:episode>
+  </item>
 </channel>
 </rss>
