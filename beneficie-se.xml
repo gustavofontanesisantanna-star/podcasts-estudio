@@ -56,5 +56,21 @@
     <itunes:summary>Ênfase segundo o sentido</itunes:summary>
     <itunes:episode>6</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 7 · Ênfase nas ideias principais</title>
+    <guid isPermaLink="false">pt_be_07</guid>
+    <pubDate>Tue, 25 Aug 2026 10:09:24 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est07-enfase-nas-ideias-principais.m4a" length="69554846" type="audio/mp4"/>
+    <itunes:summary>Ênfase nas ideias principais</itunes:summary>
+    <itunes:episode>7</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 28 · Estilo conversante</title>
+    <guid isPermaLink="false">pt_be_28</guid>
+    <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est28-estilo-conversante.m4a" length="58329501" type="audio/mp4"/>
+    <itunes:summary>Estilo conversante</itunes:summary>
+    <itunes:episode>28</itunes:episode>
+  </item>
 </channel>
 </rss>
