@@ -169,6 +169,14 @@
     <itunes:episode>20</itunes:episode>
   </item>
   <item>
+    <title>Lección 21 · Lectura de textos bíblicos con el énfasis debido</title>
+    <guid isPermaLink="false">be_21</guid>
+    <pubDate>Wed, 26 Aug 2026 19:47:15 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec21-lectura-de-textos-biblicos-con-el-enfasis-debido.m4a" length="47848482" type="audio/mp4"/>
+    <itunes:summary>Lectura de textos bíblicos con el énfasis debido</itunes:summary>
+    <itunes:episode>21</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -279,6 +287,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec41-claridad-en-la-exposicion.m4a" length="72165549" type="audio/mp4"/>
     <itunes:summary>Claridad en la exposición</itunes:summary>
     <itunes:episode>41</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 42 · Exposición instructiva para el auditorio</title>
+    <guid isPermaLink="false">be_42</guid>
+    <pubDate>Wed, 26 Aug 2026 19:57:12 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec42-exposicion-instructiva-para-el-auditorio.m4a" length="83020629" type="audio/mp4"/>
+    <itunes:summary>Exposición instructiva para el auditorio</itunes:summary>
+    <itunes:episode>42</itunes:episode>
   </item>
 </channel>
 </rss>

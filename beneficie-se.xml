@@ -65,12 +65,28 @@
     <itunes:episode>7</itunes:episode>
   </item>
   <item>
+    <title>Estudo 8 · Volume apropriado</title>
+    <guid isPermaLink="false">pt_be_08</guid>
+    <pubDate>Wed, 26 Aug 2026 19:40:23 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est08-volume-apropriado.m4a" length="80416512" type="audio/mp4"/>
+    <itunes:summary>Volume apropriado</itunes:summary>
+    <itunes:episode>8</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est28-estilo-conversante.m4a" length="58329501" type="audio/mp4"/>
     <itunes:summary>Estilo conversante</itunes:summary>
     <itunes:episode>28</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 29 · Qualidade da voz</title>
+    <guid isPermaLink="false">pt_be_29</guid>
+    <pubDate>Wed, 26 Aug 2026 19:53:55 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est29-qualidade-da-voz.m4a" length="70669382" type="audio/mp4"/>
+    <itunes:summary>Qualidade da voz</itunes:summary>
+    <itunes:episode>29</itunes:episode>
   </item>
 </channel>
 </rss>
