@@ -161,6 +161,14 @@
     <itunes:episode>19</itunes:episode>
   </item>
   <item>
+    <title>Lección 20 · Introducción eficaz a los textos bíblicos</title>
+    <guid isPermaLink="false">be_20</guid>
+    <pubDate>Wed, 26 Aug 2026 16:08:59 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec20-introduccion-eficaz-a-los-textos-biblicos.m4a" length="33569635" type="audio/mp4"/>
+    <itunes:summary>Introducción eficaz a los textos bíblicos</itunes:summary>
+    <itunes:episode>20</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -263,6 +271,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec40-exactitud-en-las-afirmaciones.m4a" length="79628132" type="audio/mp4"/>
     <itunes:summary>Exactitud en las afirmaciones</itunes:summary>
     <itunes:episode>40</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 41 · Claridad en la exposición</title>
+    <guid isPermaLink="false">be_41</guid>
+    <pubDate>Wed, 26 Aug 2026 16:15:43 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec41-claridad-en-la-exposicion.m4a" length="72165549" type="audio/mp4"/>
+    <itunes:summary>Claridad en la exposición</itunes:summary>
+    <itunes:episode>41</itunes:episode>
   </item>
 </channel>
 </rss>
