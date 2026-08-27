@@ -81,6 +81,14 @@
     <itunes:episode>9</itunes:episode>
   </item>
   <item>
+    <title>Estudo 10 · Entusiasmo</title>
+    <guid isPermaLink="false">pt_be_10</guid>
+    <pubDate>Thu, 27 Aug 2026 19:50:13 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est10-entusiasmo.m4a" length="65375440" type="audio/mp4"/>
+    <itunes:summary>Entusiasmo</itunes:summary>
+    <itunes:episode>10</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>

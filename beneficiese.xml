@@ -185,6 +185,14 @@
     <itunes:episode>22</itunes:episode>
   </item>
   <item>
+    <title>Lección 23 · Resaltar el valor práctico</title>
+    <guid isPermaLink="false">be_23</guid>
+    <pubDate>Thu, 27 Aug 2026 19:49:58 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec23-resaltar-el-valor-practico.m4a" length="45692644" type="audio/mp4"/>
+    <itunes:summary>Resaltar el valor práctico</itunes:summary>
+    <itunes:episode>23</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -311,6 +319,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec43-utilizar-la-informacion-asignada.m4a" length="65460716" type="audio/mp4"/>
     <itunes:summary>Utilizar la información asignada</itunes:summary>
     <itunes:episode>43</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 44 · Uso eficaz de las preguntas</title>
+    <guid isPermaLink="false">be_44</guid>
+    <pubDate>Thu, 27 Aug 2026 19:50:27 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec44-uso-eficaz-de-las-preguntas.m4a" length="60679870" type="audio/mp4"/>
+    <itunes:summary>Uso eficaz de las preguntas</itunes:summary>
+    <itunes:episode>44</itunes:episode>
   </item>
 </channel>
 </rss>
