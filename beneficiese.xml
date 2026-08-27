@@ -177,6 +177,14 @@
     <itunes:episode>21</itunes:episode>
   </item>
   <item>
+    <title>Lección 22 · Empleo correcto de los textos bíblicos</title>
+    <guid isPermaLink="false">be_22</guid>
+    <pubDate>Thu, 27 Aug 2026 10:26:23 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec22-empleo-correcto-de-los-textos-biblicos.m4a" length="82392254" type="audio/mp4"/>
+    <itunes:summary>Empleo correcto de los textos bíblicos</itunes:summary>
+    <itunes:episode>22</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -295,6 +303,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec42-exposicion-instructiva-para-el-auditorio.m4a" length="83020629" type="audio/mp4"/>
     <itunes:summary>Exposición instructiva para el auditorio</itunes:summary>
     <itunes:episode>42</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 43 · Utilizar la información asignada</title>
+    <guid isPermaLink="false">be_43</guid>
+    <pubDate>Thu, 27 Aug 2026 10:23:05 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec43-utilizar-la-informacion-asignada.m4a" length="65460716" type="audio/mp4"/>
+    <itunes:summary>Utilizar la información asignada</itunes:summary>
+    <itunes:episode>43</itunes:episode>
   </item>
 </channel>
 </rss>

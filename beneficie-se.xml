@@ -73,6 +73,14 @@
     <itunes:episode>8</itunes:episode>
   </item>
   <item>
+    <title>Estudo 9 · Modulação</title>
+    <guid isPermaLink="false">pt_be_09</guid>
+    <pubDate>Thu, 27 Aug 2026 10:29:46 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est09-modulacao.m4a" length="91246146" type="audio/mp4"/>
+    <itunes:summary>Modulação</itunes:summary>
+    <itunes:episode>9</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
