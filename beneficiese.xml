@@ -193,6 +193,14 @@
     <itunes:episode>23</itunes:episode>
   </item>
   <item>
+    <title>Lección 24 · Buen uso del vocabulario</title>
+    <guid isPermaLink="false">be_24</guid>
+    <pubDate>Fri, 28 Aug 2026 19:53:25 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec24-buen-uso-del-vocabulario.m4a" length="63933896" type="audio/mp4"/>
+    <itunes:summary>Buen uso del vocabulario</itunes:summary>
+    <itunes:episode>24</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -327,6 +335,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec44-uso-eficaz-de-las-preguntas.m4a" length="60679870" type="audio/mp4"/>
     <itunes:summary>Uso eficaz de las preguntas</itunes:summary>
     <itunes:episode>44</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 45 · Ilustraciones instructivas</title>
+    <guid isPermaLink="false">be_45</guid>
+    <pubDate>Fri, 28 Aug 2026 19:54:00 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec45-ilustraciones-instructivas.m4a" length="82909825" type="audio/mp4"/>
+    <itunes:summary>Ilustraciones instructivas</itunes:summary>
+    <itunes:episode>45</itunes:episode>
   </item>
 </channel>
 </rss>
