@@ -201,6 +201,14 @@
     <itunes:episode>24</itunes:episode>
   </item>
   <item>
+    <title>Lección 25 · Uso de un bosquejo</title>
+    <guid isPermaLink="false">be_25</guid>
+    <pubDate>Sat, 29 Aug 2026 15:25:57 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec25-uso-de-un-bosquejo.m4a" length="97683176" type="audio/mp4"/>
+    <itunes:summary>Uso de un bosquejo</itunes:summary>
+    <itunes:episode>25</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -343,6 +351,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec45-ilustraciones-instructivas.m4a" length="82909825" type="audio/mp4"/>
     <itunes:summary>Ilustraciones instructivas</itunes:summary>
     <itunes:episode>45</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 46 · Ilustraciones basadas en situaciones conocidas</title>
+    <guid isPermaLink="false">be_46</guid>
+    <pubDate>Sat, 29 Aug 2026 15:22:41 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec46-ilustraciones-basadas-en-situaciones-conocidas.m4a" length="73795574" type="audio/mp4"/>
+    <itunes:summary>Ilustraciones basadas en situaciones conocidas</itunes:summary>
+    <itunes:episode>46</itunes:episode>
   </item>
 </channel>
 </rss>
