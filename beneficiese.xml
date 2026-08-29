@@ -209,6 +209,14 @@
     <itunes:episode>25</itunes:episode>
   </item>
   <item>
+    <title>Lección 26 · Desarrollo lógico de la información</title>
+    <guid isPermaLink="false">be_26</guid>
+    <pubDate>Sat, 29 Aug 2026 19:49:50 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec26-desarrollo-logico-de-la-informacion.m4a" length="58892092" type="audio/mp4"/>
+    <itunes:summary>Desarrollo lógico de la información</itunes:summary>
+    <itunes:episode>26</itunes:episode>
+  </item>
+  <item>
     <title>Lección 28 · Tono conversacional</title>
     <guid isPermaLink="false">be_28</guid>
     <pubDate>Tue, 11 Aug 2026 11:16:54 -0300</pubDate>
@@ -359,6 +367,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec46-ilustraciones-basadas-en-situaciones-conocidas.m4a" length="73795574" type="audio/mp4"/>
     <itunes:summary>Ilustraciones basadas en situaciones conocidas</itunes:summary>
     <itunes:episode>46</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 47 · Uso eficaz de medios visuales</title>
+    <guid isPermaLink="false">be_47</guid>
+    <pubDate>Sat, 29 Aug 2026 19:53:21 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec47-uso-eficaz-de-medios-visuales.m4a" length="95736005" type="audio/mp4"/>
+    <itunes:summary>Uso eficaz de medios visuales</itunes:summary>
+    <itunes:episode>47</itunes:episode>
   </item>
 </channel>
 </rss>

@@ -105,6 +105,14 @@
     <itunes:episode>12</itunes:episode>
   </item>
   <item>
+    <title>Estudo 13 · Contato visual</title>
+    <guid isPermaLink="false">pt_be_13</guid>
+    <pubDate>Sat, 29 Aug 2026 19:56:37 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est13-contato-visual.m4a" length="91114540" type="audio/mp4"/>
+    <itunes:summary>Contato visual</itunes:summary>
+    <itunes:episode>13</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
