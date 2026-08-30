@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Ame as Pessoas — Faça Discípulos</title>
+  <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
+  <language>pt-BR</language>
+  <description>Um episódio por lição do livro &#x27;Ame as Pessoas — Faça Discípulos&#x27;, incluindo o conteúdo do vídeo da lição. Áudio gerado com o NotebookLM, em português. Uso pessoal.</description>
+  <itunes:author>NotebookLM (uso personal)</itunes:author>
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/ame-as-pessoas.png"/>
+  <item>
+    <title>Lição 1 · Interesse pelas pessoas</title>
+    <guid isPermaLink="false">lmd_pt_01</guid>
+    <pubDate>Sun, 30 Aug 2026 13:26:10 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic01-interesse-pelas-pessoas.m4a" length="83648230" type="audio/mp4"/>
+    <itunes:summary>Interesse pelas pessoas</itunes:summary>
+    <itunes:episode>1</itunes:episode>
+  </item>
+</channel>
+</rss>

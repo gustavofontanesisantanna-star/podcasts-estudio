@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Hacer discípulos — una obra de amor</title>
+  <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
+  <language>es-ES</language>
+  <description>Un episodio por cada lección del libro &#x27;Hacer discípulos: una obra de amor&#x27;, con el contenido del video de la lección. Audio generado con NotebookLM, en español. Uso personal.</description>
+  <itunes:author>NotebookLM (uso personal)</itunes:author>
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/hacer-discipulos.png"/>
+  <item>
+    <title>Lección 1 · Interés sincero</title>
+    <guid isPermaLink="false">lmd_es_01</guid>
+    <pubDate>Sun, 30 Aug 2026 13:52:40 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec01-interes-sincero.m4a" length="77445271" type="audio/mp4"/>
+    <itunes:summary>Interés sincero</itunes:summary>
+    <itunes:episode>1</itunes:episode>
+  </item>
+</channel>
+</rss>

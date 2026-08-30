@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Seamos mejores lectores y maestros</title>
+  <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
+  <language>es-ES</language>
+  <description>Un episodio por cada lección del folleto &#x27;Seamos mejores lectores y maestros&#x27;, con las demostraciones del video. Audio generado con NotebookLM, en español. Uso personal.</description>
+  <itunes:author>NotebookLM (uso personal)</itunes:author>
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/mejores-lectores.png"/>
+  <item>
+    <title>Lección 1 · Hacer una buena introducción</title>
+    <guid isPermaLink="false">th_es_01</guid>
+    <pubDate>Sun, 30 Aug 2026 13:46:15 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec01-hacer-una-buena-introduccion.m4a" length="63547922" type="audio/mp4"/>
+    <itunes:summary>Hacer una buena introducción</itunes:summary>
+    <itunes:episode>1</itunes:episode>
+  </item>
+</channel>
+</rss>
