@@ -16,5 +16,13 @@
     <itunes:summary>Interesse pelas pessoas</itunes:summary>
     <itunes:episode>1</itunes:episode>
   </item>
+  <item>
+    <title>Lição 2 · Naturalidade</title>
+    <guid isPermaLink="false">lmd_pt_02</guid>
+    <pubDate>Sun, 30 Aug 2026 19:58:51 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic02-naturalidade.m4a" length="87239615" type="audio/mp4"/>
+    <itunes:summary>Naturalidade</itunes:summary>
+    <itunes:episode>2</itunes:episode>
+  </item>
 </channel>
 </rss>

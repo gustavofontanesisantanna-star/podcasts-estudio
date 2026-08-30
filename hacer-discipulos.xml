@@ -16,5 +16,13 @@
     <itunes:summary>Interés sincero</itunes:summary>
     <itunes:episode>1</itunes:episode>
   </item>
+  <item>
+    <title>Lección 2 · Naturalidad</title>
+    <guid isPermaLink="false">lmd_es_02</guid>
+    <pubDate>Sun, 30 Aug 2026 19:46:17 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec02-naturalidad.m4a" length="32110844" type="audio/mp4"/>
+    <itunes:summary>Naturalidad</itunes:summary>
+    <itunes:episode>2</itunes:episode>
+  </item>
 </channel>
 </rss>
