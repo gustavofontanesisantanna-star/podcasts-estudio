@@ -16,5 +16,13 @@
     <itunes:summary>Hacer una buena introducción</itunes:summary>
     <itunes:episode>1</itunes:episode>
   </item>
+  <item>
+    <title>Lección 2 · Hablar con naturalidad</title>
+    <guid isPermaLink="false">th_es_02</guid>
+    <pubDate>Tue, 01 Sep 2026 10:06:40 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec02-hablar-con-naturalidad.m4a" length="119466588" type="audio/mp4"/>
+    <itunes:summary>Hablar con naturalidad</itunes:summary>
+    <itunes:episode>2</itunes:episode>
+  </item>
 </channel>
 </rss>

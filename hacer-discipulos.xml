@@ -32,5 +32,13 @@
     <itunes:summary>Bondad</itunes:summary>
     <itunes:episode>3</itunes:episode>
   </item>
+  <item>
+    <title>Lección 4 · Humildad</title>
+    <guid isPermaLink="false">lmd_es_04</guid>
+    <pubDate>Tue, 01 Sep 2026 09:53:51 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec04-humildad.m4a" length="80045495" type="audio/mp4"/>
+    <itunes:summary>Humildad</itunes:summary>
+    <itunes:episode>4</itunes:episode>
+  </item>
 </channel>
 </rss>

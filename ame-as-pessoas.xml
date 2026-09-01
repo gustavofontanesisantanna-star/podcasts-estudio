@@ -24,5 +24,13 @@
     <itunes:summary>Naturalidade</itunes:summary>
     <itunes:episode>2</itunes:episode>
   </item>
+  <item>
+    <title>Lição 3 · Bondade</title>
+    <guid isPermaLink="false">lmd_pt_03</guid>
+    <pubDate>Tue, 01 Sep 2026 09:54:05 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic03-bondade.m4a" length="60471097" type="audio/mp4"/>
+    <itunes:summary>Bondade</itunes:summary>
+    <itunes:episode>3</itunes:episode>
+  </item>
 </channel>
 </rss>
