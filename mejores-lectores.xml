@@ -40,5 +40,13 @@
     <itunes:summary>Introducir bien los textos bíblicos</itunes:summary>
     <itunes:episode>4</itunes:episode>
   </item>
+  <item>
+    <title>Lección 5 · Leer con exactitud</title>
+    <guid isPermaLink="false">th_es_05</guid>
+    <pubDate>Wed, 02 Sep 2026 19:50:13 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec05-leer-con-exactitud.m4a" length="59280285" type="audio/mp4"/>
+    <itunes:summary>Leer con exactitud</itunes:summary>
+    <itunes:episode>5</itunes:episode>
+  </item>
 </channel>
 </rss>

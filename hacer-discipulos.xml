@@ -56,5 +56,13 @@
     <itunes:summary>Valor</itunes:summary>
     <itunes:episode>6</itunes:episode>
   </item>
+  <item>
+    <title>Lección 7 · Constancia</title>
+    <guid isPermaLink="false">lmd_es_07</guid>
+    <pubDate>Wed, 02 Sep 2026 19:53:27 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec07-constancia.m4a" length="84184505" type="audio/mp4"/>
+    <itunes:summary>Constancia</itunes:summary>
+    <itunes:episode>7</itunes:episode>
+  </item>
 </channel>
 </rss>

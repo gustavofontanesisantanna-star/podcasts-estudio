@@ -48,5 +48,13 @@
     <itunes:summary>Tato</itunes:summary>
     <itunes:episode>5</itunes:episode>
   </item>
+  <item>
+    <title>Lição 6 · Coragem</title>
+    <guid isPermaLink="false">lmd_pt_06</guid>
+    <pubDate>Wed, 02 Sep 2026 19:53:41 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic06-coragem.m4a" length="66930663" type="audio/mp4"/>
+    <itunes:summary>Coragem</itunes:summary>
+    <itunes:episode>6</itunes:episode>
+  </item>
 </channel>
 </rss>
