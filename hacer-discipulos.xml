@@ -40,5 +40,21 @@
     <itunes:summary>Humildad</itunes:summary>
     <itunes:episode>4</itunes:episode>
   </item>
+  <item>
+    <title>Lección 5 · Tacto</title>
+    <guid isPermaLink="false">lmd_es_05</guid>
+    <pubDate>Tue, 01 Sep 2026 21:07:01 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec05-tacto.m4a" length="93537430" type="audio/mp4"/>
+    <itunes:summary>Tacto</itunes:summary>
+    <itunes:episode>5</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 6 · Valor</title>
+    <guid isPermaLink="false">lmd_es_06</guid>
+    <pubDate>Tue, 01 Sep 2026 22:23:30 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec06-valor.m4a" length="69380482" type="audio/mp4"/>
+    <itunes:summary>Valor</itunes:summary>
+    <itunes:episode>6</itunes:episode>
+  </item>
 </channel>
 </rss>

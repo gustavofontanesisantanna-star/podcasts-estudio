@@ -24,5 +24,21 @@
     <itunes:summary>Hablar con naturalidad</itunes:summary>
     <itunes:episode>2</itunes:episode>
   </item>
+  <item>
+    <title>Lección 3 · Hacer preguntas</title>
+    <guid isPermaLink="false">th_es_03</guid>
+    <pubDate>Tue, 01 Sep 2026 21:00:41 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec03-hacer-preguntas.m4a" length="52817840" type="audio/mp4"/>
+    <itunes:summary>Hacer preguntas</itunes:summary>
+    <itunes:episode>3</itunes:episode>
+  </item>
+  <item>
+    <title>Lección 4 · Introducir bien los textos bíblicos</title>
+    <guid isPermaLink="false">th_es_04</guid>
+    <pubDate>Tue, 01 Sep 2026 22:33:20 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec04-introducir-bien-los-textos-biblicos.m4a" length="95322366" type="audio/mp4"/>
+    <itunes:summary>Introducir bien los textos bíblicos</itunes:summary>
+    <itunes:episode>4</itunes:episode>
+  </item>
 </channel>
 </rss>

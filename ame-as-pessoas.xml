@@ -32,5 +32,21 @@
     <itunes:summary>Bondade</itunes:summary>
     <itunes:episode>3</itunes:episode>
   </item>
+  <item>
+    <title>Lição 4 · Humildade</title>
+    <guid isPermaLink="false">lmd_pt_04</guid>
+    <pubDate>Tue, 01 Sep 2026 21:00:28 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic04-humildade.m4a" length="68725932" type="audio/mp4"/>
+    <itunes:summary>Humildade</itunes:summary>
+    <itunes:episode>4</itunes:episode>
+  </item>
+  <item>
+    <title>Lição 5 · Tato</title>
+    <guid isPermaLink="false">lmd_pt_05</guid>
+    <pubDate>Tue, 01 Sep 2026 22:26:53 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic05-tato.m4a" length="78975800" type="audio/mp4"/>
+    <itunes:summary>Tato</itunes:summary>
+    <itunes:episode>5</itunes:episode>
+  </item>
 </channel>
 </rss>
