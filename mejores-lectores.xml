@@ -48,5 +48,13 @@
     <itunes:summary>Leer con exactitud</itunes:summary>
     <itunes:episode>5</itunes:episode>
   </item>
+  <item>
+    <title>Lección 6 · Explicar bien los textos bíblicos</title>
+    <guid isPermaLink="false">th_es_06</guid>
+    <pubDate>Thu, 03 Sep 2026 09:50:20 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec06-explicar-bien-los-textos-biblicos.m4a" length="47754988" type="audio/mp4"/>
+    <itunes:summary>Explicar bien los textos bíblicos</itunes:summary>
+    <itunes:episode>6</itunes:episode>
+  </item>
 </channel>
 </rss>

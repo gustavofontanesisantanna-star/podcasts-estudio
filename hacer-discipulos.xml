@@ -64,5 +64,13 @@
     <itunes:summary>Constancia</itunes:summary>
     <itunes:episode>7</itunes:episode>
   </item>
+  <item>
+    <title>Lección 8 · Paciencia</title>
+    <guid isPermaLink="false">lmd_es_08</guid>
+    <pubDate>Thu, 03 Sep 2026 09:53:36 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec08-paciencia.m4a" length="81080149" type="audio/mp4"/>
+    <itunes:summary>Paciencia</itunes:summary>
+    <itunes:episode>8</itunes:episode>
+  </item>
 </channel>
 </rss>

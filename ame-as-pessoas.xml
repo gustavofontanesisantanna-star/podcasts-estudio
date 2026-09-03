@@ -56,5 +56,13 @@
     <itunes:summary>Coragem</itunes:summary>
     <itunes:episode>6</itunes:episode>
   </item>
+  <item>
+    <title>Lição 7 · Perseverança</title>
+    <guid isPermaLink="false">lmd_pt_07</guid>
+    <pubDate>Thu, 03 Sep 2026 09:57:00 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic07-perseveranca.m4a" length="94418669" type="audio/mp4"/>
+    <itunes:summary>Perseverança</itunes:summary>
+    <itunes:episode>7</itunes:episode>
+  </item>
 </channel>
 </rss>
