@@ -80,5 +80,13 @@
     <itunes:summary>Empatía</itunes:summary>
     <itunes:episode>9</itunes:episode>
   </item>
+  <item>
+    <title>Lección 10 · Sentido de compromiso</title>
+    <guid isPermaLink="false">lmd_es_10</guid>
+    <pubDate>Fri, 04 Sep 2026 08:05:41 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec10-sentido-de-compromiso.m4a" length="37462488" type="audio/mp4"/>
+    <itunes:summary>Sentido de compromiso</itunes:summary>
+    <itunes:episode>10</itunes:episode>
+  </item>
 </channel>
 </rss>
