@@ -72,5 +72,13 @@
     <itunes:summary>Enseñar con ejemplos</itunes:summary>
     <itunes:episode>8</itunes:episode>
   </item>
+  <item>
+    <title>Lección 9 · Usar bien las ayudas visuales</title>
+    <guid isPermaLink="false">th_es_09</guid>
+    <pubDate>Fri, 04 Sep 2026 19:50:43 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec09-usar-bien-las-ayudas-visuales.m4a" length="54111240" type="audio/mp4"/>
+    <itunes:summary>Usar bien las ayudas visuales</itunes:summary>
+    <itunes:episode>9</itunes:episode>
+  </item>
 </channel>
 </rss>

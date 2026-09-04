@@ -88,5 +88,13 @@
     <itunes:summary>Senso de compromisso</itunes:summary>
     <itunes:episode>10</itunes:episode>
   </item>
+  <item>
+    <title>Lição 11 · Simplicidade</title>
+    <guid isPermaLink="false">lmd_pt_11</guid>
+    <pubDate>Fri, 04 Sep 2026 19:50:29 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic11-simplicidade.m4a" length="61377019" type="audio/mp4"/>
+    <itunes:summary>Simplicidade</itunes:summary>
+    <itunes:episode>11</itunes:episode>
+  </item>
 </channel>
 </rss>
