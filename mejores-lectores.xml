@@ -64,5 +64,13 @@
     <itunes:summary>Usar información exacta y convincente</itunes:summary>
     <itunes:episode>7</itunes:episode>
   </item>
+  <item>
+    <title>Lección 8 · Enseñar con ejemplos</title>
+    <guid isPermaLink="false">th_es_08</guid>
+    <pubDate>Fri, 04 Sep 2026 13:04:32 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec08-ensenar-con-ejemplos.m4a" length="73456682" type="audio/mp4"/>
+    <itunes:summary>Enseñar con ejemplos</itunes:summary>
+    <itunes:episode>8</itunes:episode>
+  </item>
 </channel>
 </rss>

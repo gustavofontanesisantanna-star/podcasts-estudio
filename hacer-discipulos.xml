@@ -88,5 +88,13 @@
     <itunes:summary>Sentido de compromiso</itunes:summary>
     <itunes:episode>10</itunes:episode>
   </item>
+  <item>
+    <title>Lección 11 · Sencillez</title>
+    <guid isPermaLink="false">lmd_es_11</guid>
+    <pubDate>Fri, 04 Sep 2026 13:07:57 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec11-sencillez.m4a" length="75061260" type="audio/mp4"/>
+    <itunes:summary>Sencillez</itunes:summary>
+    <itunes:episode>11</itunes:episode>
+  </item>
 </channel>
 </rss>

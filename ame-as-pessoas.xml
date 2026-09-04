@@ -80,5 +80,13 @@
     <itunes:summary>Empatia</itunes:summary>
     <itunes:episode>9</itunes:episode>
   </item>
+  <item>
+    <title>Lição 10 · Senso de compromisso</title>
+    <guid isPermaLink="false">lmd_pt_10</guid>
+    <pubDate>Fri, 04 Sep 2026 13:08:14 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic10-senso-de-compromisso.m4a" length="91525945" type="audio/mp4"/>
+    <itunes:summary>Senso de compromisso</itunes:summary>
+    <itunes:episode>10</itunes:episode>
+  </item>
 </channel>
 </rss>
