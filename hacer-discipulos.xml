@@ -72,5 +72,13 @@
     <itunes:summary>Paciencia</itunes:summary>
     <itunes:episode>8</itunes:episode>
   </item>
+  <item>
+    <title>Lección 9 · Empatía</title>
+    <guid isPermaLink="false">lmd_es_09</guid>
+    <pubDate>Fri, 04 Sep 2026 07:45:12 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec09-empatia.m4a" length="75735993" type="audio/mp4"/>
+    <itunes:summary>Empatía</itunes:summary>
+    <itunes:episode>9</itunes:episode>
+  </item>
 </channel>
 </rss>

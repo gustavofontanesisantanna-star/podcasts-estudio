@@ -64,5 +64,13 @@
     <itunes:summary>Perseverança</itunes:summary>
     <itunes:episode>7</itunes:episode>
   </item>
+  <item>
+    <title>Lição 8 · Paciência</title>
+    <guid isPermaLink="false">lmd_pt_08</guid>
+    <pubDate>Fri, 04 Sep 2026 07:45:28 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic08-paciencia.m4a" length="103168649" type="audio/mp4"/>
+    <itunes:summary>Paciência</itunes:summary>
+    <itunes:episode>8</itunes:episode>
+  </item>
 </channel>
 </rss>

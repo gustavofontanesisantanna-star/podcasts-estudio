@@ -56,5 +56,13 @@
     <itunes:summary>Explicar bien los textos bíblicos</itunes:summary>
     <itunes:episode>6</itunes:episode>
   </item>
+  <item>
+    <title>Lección 7 · Usar información exacta y convincente</title>
+    <guid isPermaLink="false">th_es_07</guid>
+    <pubDate>Fri, 04 Sep 2026 07:48:51 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec07-usar-informacion-exacta-y-convincente.m4a" length="92711667" type="audio/mp4"/>
+    <itunes:summary>Usar información exacta y convincente</itunes:summary>
+    <itunes:episode>7</itunes:episode>
+  </item>
 </channel>
 </rss>
