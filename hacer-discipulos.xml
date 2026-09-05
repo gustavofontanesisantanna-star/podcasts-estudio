@@ -104,5 +104,13 @@
     <itunes:summary>Franqueza</itunes:summary>
     <itunes:episode>12</itunes:episode>
   </item>
+  <item>
+    <title>Apéndice A — Verdades bíblicas que nos encanta enseñar</title>
+    <guid isPermaLink="false">lmd_es_13</guid>
+    <pubDate>Sat, 05 Sep 2026 10:14:09 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec13-verdades-biblicas-que-nos-encanta-ensenar.m4a" length="110606596" type="audio/mp4"/>
+    <itunes:summary>Verdades bíblicas que nos encanta enseñar</itunes:summary>
+    <itunes:episode>13</itunes:episode>
+  </item>
 </channel>
 </rss>

@@ -80,5 +80,13 @@
     <itunes:summary>Usar bien las ayudas visuales</itunes:summary>
     <itunes:episode>9</itunes:episode>
   </item>
+  <item>
+    <title>Lección 10 · Modular la voz</title>
+    <guid isPermaLink="false">th_es_10</guid>
+    <pubDate>Sat, 05 Sep 2026 10:17:48 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec10-modular-la-voz.m4a" length="125417305" type="audio/mp4"/>
+    <itunes:summary>Modular la voz</itunes:summary>
+    <itunes:episode>10</itunes:episode>
+  </item>
 </channel>
 </rss>

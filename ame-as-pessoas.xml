@@ -96,5 +96,13 @@
     <itunes:summary>Simplicidade</itunes:summary>
     <itunes:episode>11</itunes:episode>
   </item>
+  <item>
+    <title>Lição 12 · Franqueza</title>
+    <guid isPermaLink="false">lmd_pt_12</guid>
+    <pubDate>Sat, 05 Sep 2026 10:14:24 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic12-franqueza.m4a" length="49659522" type="audio/mp4"/>
+    <itunes:summary>Franqueza</itunes:summary>
+    <itunes:episode>12</itunes:episode>
+  </item>
 </channel>
 </rss>
