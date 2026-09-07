@@ -112,5 +112,13 @@
     <itunes:summary>Verdades bíblicas que nos encanta enseñar</itunes:summary>
     <itunes:episode>13</itunes:episode>
   </item>
+  <item>
+    <title>Apéndice B — ¿Es momento de terminar la conversación?</title>
+    <guid isPermaLink="false">lmd_es_14</guid>
+    <pubDate>Mon, 07 Sep 2026 09:26:08 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec14-es-momento-de-terminar-la-conversacion.m4a" length="81738467" type="audio/mp4"/>
+    <itunes:summary>¿Es momento de terminar la conversación?</itunes:summary>
+    <itunes:episode>14</itunes:episode>
+  </item>
 </channel>
 </rss>
