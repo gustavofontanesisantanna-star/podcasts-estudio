@@ -104,5 +104,13 @@
     <itunes:summary>Franqueza</itunes:summary>
     <itunes:episode>12</itunes:episode>
   </item>
+  <item>
+    <title>Apêndice A — Verdades que amamos ensinar</title>
+    <guid isPermaLink="false">lmd_pt_13</guid>
+    <pubDate>Mon, 07 Sep 2026 09:53:53 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic13-verdades-que-amamos-ensinar.m4a" length="80745012" type="audio/mp4"/>
+    <itunes:summary>Verdades que amamos ensinar</itunes:summary>
+    <itunes:episode>13</itunes:episode>
+  </item>
 </channel>
 </rss>

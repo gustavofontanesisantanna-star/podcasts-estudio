@@ -88,5 +88,13 @@
     <itunes:summary>Modular la voz</itunes:summary>
     <itunes:episode>10</itunes:episode>
   </item>
+  <item>
+    <title>Lección 11 · Hablar con entusiasmo</title>
+    <guid isPermaLink="false">th_es_11</guid>
+    <pubDate>Mon, 07 Sep 2026 09:54:08 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec11-hablar-con-entusiasmo.m4a" length="66691271" type="audio/mp4"/>
+    <itunes:summary>Hablar con entusiasmo</itunes:summary>
+    <itunes:episode>11</itunes:episode>
+  </item>
 </channel>
 </rss>
