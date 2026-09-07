@@ -96,5 +96,13 @@
     <itunes:summary>Hablar con entusiasmo</itunes:summary>
     <itunes:episode>11</itunes:episode>
   </item>
+  <item>
+    <title>Lección 12 · Mostrar amabilidad y empatía</title>
+    <guid isPermaLink="false">th_es_12</guid>
+    <pubDate>Mon, 07 Sep 2026 19:54:15 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec12-mostrar-amabilidad-y-empatia.m4a" length="93327319" type="audio/mp4"/>
+    <itunes:summary>Mostrar amabilidad y empatía</itunes:summary>
+    <itunes:episode>12</itunes:episode>
+  </item>
 </channel>
 </rss>
