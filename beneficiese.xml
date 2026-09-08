@@ -384,5 +384,13 @@
     <itunes:summary>Uso eficaz de medios visuales</itunes:summary>
     <itunes:episode>47</itunes:episode>
   </item>
+  <item>
+    <title>Lección 48 · Argumentación que induce a razonar</title>
+    <guid isPermaLink="false">be_48</guid>
+    <pubDate>Tue, 08 Sep 2026 09:57:43 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec48-argumentacion-que-induce-a-razonar.m4a" length="118639954" type="audio/mp4"/>
+    <itunes:summary>Argumentación que induce a razonar</itunes:summary>
+    <itunes:episode>48</itunes:episode>
+  </item>
 </channel>
 </rss>
