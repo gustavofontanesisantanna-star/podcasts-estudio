@@ -120,5 +120,13 @@
     <itunes:summary>¿Es momento de terminar la conversación?</itunes:summary>
     <itunes:episode>14</itunes:episode>
   </item>
+  <item>
+    <title>Apéndice C — Cómo dirigir cursos bíblicos con el manual Disfrute de la vida</title>
+    <guid isPermaLink="false">lmd_es_15</guid>
+    <pubDate>Wed, 09 Sep 2026 20:00:14 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmd-lec15-como-dirigir-cursos-biblicos-con-el-manual-disfrute-de-la-vida.m4a" length="85589482" type="audio/mp4"/>
+    <itunes:summary>Cómo dirigir cursos bíblicos con el manual Disfrute de la vida</itunes:summary>
+    <itunes:episode>15</itunes:episode>
+  </item>
 </channel>
 </rss>

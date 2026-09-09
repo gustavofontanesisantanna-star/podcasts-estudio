@@ -104,5 +104,13 @@
     <itunes:summary>Mostrar amabilidad y empatía</itunes:summary>
     <itunes:episode>12</itunes:episode>
   </item>
+  <item>
+    <title>Lección 13 · Resaltar el valor práctico</title>
+    <guid isPermaLink="false">th_es_13</guid>
+    <pubDate>Wed, 09 Sep 2026 20:09:43 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec13-resaltar-el-valor-practico.m4a" length="42983116" type="audio/mp4"/>
+    <itunes:summary>Resaltar el valor práctico</itunes:summary>
+    <itunes:episode>13</itunes:episode>
+  </item>
 </channel>
 </rss>
