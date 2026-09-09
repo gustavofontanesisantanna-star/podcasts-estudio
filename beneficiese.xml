@@ -392,5 +392,13 @@
     <itunes:summary>Argumentación que induce a razonar</itunes:summary>
     <itunes:episode>48</itunes:episode>
   </item>
+  <item>
+    <title>Lección 49 · Solidez en la argumentación</title>
+    <guid isPermaLink="false">be_49</guid>
+    <pubDate>Wed, 09 Sep 2026 09:50:30 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec49-solidez-en-la-argumentacion.m4a" length="47045854" type="audio/mp4"/>
+    <itunes:summary>Solidez en la argumentación</itunes:summary>
+    <itunes:episode>49</itunes:episode>
+  </item>
 </channel>
 </rss>

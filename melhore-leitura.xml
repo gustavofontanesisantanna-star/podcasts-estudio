@@ -16,5 +16,13 @@
     <itunes:summary>Comece bem</itunes:summary>
     <itunes:episode>1</itunes:episode>
   </item>
+  <item>
+    <title>Lição 2 · Fale de coração</title>
+    <guid isPermaLink="false">th_pt_02</guid>
+    <pubDate>Wed, 09 Sep 2026 09:54:01 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic02-fale-de-coracao.m4a" length="78875606" type="audio/mp4"/>
+    <itunes:summary>Fale de coração</itunes:summary>
+    <itunes:episode>2</itunes:episode>
+  </item>
 </channel>
 </rss>

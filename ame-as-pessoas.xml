@@ -112,5 +112,13 @@
     <itunes:summary>Verdades que amamos ensinar</itunes:summary>
     <itunes:episode>13</itunes:episode>
   </item>
+  <item>
+    <title>Apêndice B — Quando você deve encerrar uma conversa?</title>
+    <guid isPermaLink="false">lmd_pt_14</guid>
+    <pubDate>Wed, 09 Sep 2026 09:53:45 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/lmdpt-lic14-quando-voce-deve-encerrar-uma-conversa.m4a" length="98476945" type="audio/mp4"/>
+    <itunes:summary>Quando você deve encerrar uma conversa?</itunes:summary>
+    <itunes:episode>14</itunes:episode>
+  </item>
 </channel>
 </rss>
