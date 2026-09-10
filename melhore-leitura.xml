@@ -24,5 +24,13 @@
     <itunes:summary>Fale de coração</itunes:summary>
     <itunes:episode>2</itunes:episode>
   </item>
+  <item>
+    <title>Lição 3 · Faça perguntas</title>
+    <guid isPermaLink="false">th_pt_03</guid>
+    <pubDate>Thu, 10 Sep 2026 09:53:37 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic03-faca-perguntas.m4a" length="68734907" type="audio/mp4"/>
+    <itunes:summary>Faça perguntas</itunes:summary>
+    <itunes:episode>3</itunes:episode>
+  </item>
 </channel>
 </rss>

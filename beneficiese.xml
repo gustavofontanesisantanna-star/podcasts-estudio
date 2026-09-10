@@ -400,5 +400,13 @@
     <itunes:summary>Solidez en la argumentación</itunes:summary>
     <itunes:episode>49</itunes:episode>
   </item>
+  <item>
+    <title>Lección 50 · Llegar al corazón</title>
+    <guid isPermaLink="false">be_50</guid>
+    <pubDate>Thu, 10 Sep 2026 09:57:04 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec50-llegar-al-corazon.m4a" length="100584134" type="audio/mp4"/>
+    <itunes:summary>Llegar al corazón</itunes:summary>
+    <itunes:episode>50</itunes:episode>
+  </item>
 </channel>
 </rss>

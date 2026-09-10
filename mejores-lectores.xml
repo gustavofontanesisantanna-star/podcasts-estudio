@@ -112,5 +112,13 @@
     <itunes:summary>Resaltar el valor práctico</itunes:summary>
     <itunes:episode>13</itunes:episode>
   </item>
+  <item>
+    <title>Lección 14 · Destacar los puntos principales</title>
+    <guid isPermaLink="false">th_es_14</guid>
+    <pubDate>Thu, 10 Sep 2026 09:53:23 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec14-destacar-los-puntos-principales.m4a" length="83920433" type="audio/mp4"/>
+    <itunes:summary>Destacar los puntos principales</itunes:summary>
+    <itunes:episode>14</itunes:episode>
+  </item>
 </channel>
 </rss>
