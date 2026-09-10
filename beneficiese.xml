@@ -408,5 +408,13 @@
     <itunes:summary>Llegar al corazón</itunes:summary>
     <itunes:episode>50</itunes:episode>
   </item>
+  <item>
+    <title>Lección 51 · Atenerse al tiempo y distribuirlo bien</title>
+    <guid isPermaLink="false">be_51</guid>
+    <pubDate>Thu, 10 Sep 2026 19:57:06 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec51-atenerse-al-tiempo-y-distribuirlo-bien.m4a" length="123946722" type="audio/mp4"/>
+    <itunes:summary>Atenerse al tiempo y distribuirlo bien</itunes:summary>
+    <itunes:episode>51</itunes:episode>
+  </item>
 </channel>
 </rss>

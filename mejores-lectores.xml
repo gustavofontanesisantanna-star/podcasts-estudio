@@ -120,5 +120,13 @@
     <itunes:summary>Destacar los puntos principales</itunes:summary>
     <itunes:episode>14</itunes:episode>
   </item>
+  <item>
+    <title>Lección 15 · Hablar con convicción</title>
+    <guid isPermaLink="false">th_es_15</guid>
+    <pubDate>Thu, 10 Sep 2026 19:53:24 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec15-hablar-con-conviccion.m4a" length="92080288" type="audio/mp4"/>
+    <itunes:summary>Hablar con convicción</itunes:summary>
+    <itunes:episode>15</itunes:episode>
+  </item>
 </channel>
 </rss>

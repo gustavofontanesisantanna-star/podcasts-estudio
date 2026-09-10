@@ -32,5 +32,13 @@
     <itunes:summary>Faça perguntas</itunes:summary>
     <itunes:episode>3</itunes:episode>
   </item>
+  <item>
+    <title>Lição 4 · Prepare as pessoas para entender o texto</title>
+    <guid isPermaLink="false">th_pt_04</guid>
+    <pubDate>Thu, 10 Sep 2026 19:56:48 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic04-prepare-as-pessoas-para-entender-o-texto.m4a" length="122520107" type="audio/mp4"/>
+    <itunes:summary>Prepare as pessoas para entender o texto</itunes:summary>
+    <itunes:episode>4</itunes:episode>
+  </item>
 </channel>
 </rss>
