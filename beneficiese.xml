@@ -424,5 +424,13 @@
     <itunes:summary>Exhortación eficaz</itunes:summary>
     <itunes:episode>52</itunes:episode>
   </item>
+  <item>
+    <title>Lección 53 · Animar y fortalecer al auditorio</title>
+    <guid isPermaLink="false">be_53</guid>
+    <pubDate>Fri, 11 Sep 2026 19:50:23 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec53-animar-y-fortalecer-al-auditorio.m4a" length="80567702" type="audio/mp4"/>
+    <itunes:summary>Animar y fortalecer al auditorio</itunes:summary>
+    <itunes:episode>53</itunes:episode>
+  </item>
 </channel>
 </rss>

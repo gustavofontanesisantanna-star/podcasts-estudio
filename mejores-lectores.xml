@@ -136,5 +136,13 @@
     <itunes:summary>Ser edificante y positivo</itunes:summary>
     <itunes:episode>16</itunes:episode>
   </item>
+  <item>
+    <title>Lección 17 · Hablar con sencillez</title>
+    <guid isPermaLink="false">th_es_17</guid>
+    <pubDate>Fri, 11 Sep 2026 19:53:39 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec17-hablar-con-sencillez.m4a" length="90974594" type="audio/mp4"/>
+    <itunes:summary>Hablar con sencillez</itunes:summary>
+    <itunes:episode>17</itunes:episode>
+  </item>
 </channel>
 </rss>

@@ -48,5 +48,13 @@
     <itunes:summary>Leia de modo correto</itunes:summary>
     <itunes:episode>5</itunes:episode>
   </item>
+  <item>
+    <title>Lição 6 · Explique por que você leu o texto</title>
+    <guid isPermaLink="false">th_pt_06</guid>
+    <pubDate>Fri, 11 Sep 2026 19:53:54 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic06-explique-por-que-voce-leu-o-texto.m4a" length="96145903" type="audio/mp4"/>
+    <itunes:summary>Explique por que você leu o texto</itunes:summary>
+    <itunes:episode>6</itunes:episode>
+  </item>
 </channel>
 </rss>
