@@ -40,5 +40,13 @@
     <itunes:summary>Prepare as pessoas para entender o texto</itunes:summary>
     <itunes:episode>4</itunes:episode>
   </item>
+  <item>
+    <title>Lição 5 · Leia de modo correto</title>
+    <guid isPermaLink="false">th_pt_05</guid>
+    <pubDate>Fri, 11 Sep 2026 09:53:54 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic05-leia-de-modo-correto.m4a" length="92054109" type="audio/mp4"/>
+    <itunes:summary>Leia de modo correto</itunes:summary>
+    <itunes:episode>5</itunes:episode>
+  </item>
 </channel>
 </rss>

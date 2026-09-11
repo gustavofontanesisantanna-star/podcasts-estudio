@@ -128,5 +128,13 @@
     <itunes:summary>Hablar con convicción</itunes:summary>
     <itunes:episode>15</itunes:episode>
   </item>
+  <item>
+    <title>Lección 16 · Ser edificante y positivo</title>
+    <guid isPermaLink="false">th_es_16</guid>
+    <pubDate>Fri, 11 Sep 2026 09:53:38 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec16-ser-edificante-y-positivo.m4a" length="82078798" type="audio/mp4"/>
+    <itunes:summary>Ser edificante y positivo</itunes:summary>
+    <itunes:episode>16</itunes:episode>
+  </item>
 </channel>
 </rss>

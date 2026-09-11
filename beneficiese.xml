@@ -416,5 +416,13 @@
     <itunes:summary>Atenerse al tiempo y distribuirlo bien</itunes:summary>
     <itunes:episode>51</itunes:episode>
   </item>
+  <item>
+    <title>Lección 52 · Exhortación eficaz</title>
+    <guid isPermaLink="false">be_52</guid>
+    <pubDate>Fri, 11 Sep 2026 10:00:27 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/be-lec52-exhortacion-eficaz.m4a" length="131208760" type="audio/mp4"/>
+    <itunes:summary>Exhortación eficaz</itunes:summary>
+    <itunes:episode>52</itunes:episode>
+  </item>
 </channel>
 </rss>
