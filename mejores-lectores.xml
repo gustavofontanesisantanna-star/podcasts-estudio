@@ -144,5 +144,13 @@
     <itunes:summary>Hablar con sencillez</itunes:summary>
     <itunes:episode>17</itunes:episode>
   </item>
+  <item>
+    <title>Lección 18 · Presentar información instructiva</title>
+    <guid isPermaLink="false">th_es_18</guid>
+    <pubDate>Sat, 12 Sep 2026 09:50:14 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec18-presentar-informacion-instructiva.m4a" length="64467305" type="audio/mp4"/>
+    <itunes:summary>Presentar información instructiva</itunes:summary>
+    <itunes:episode>18</itunes:episode>
+  </item>
 </channel>
 </rss>
