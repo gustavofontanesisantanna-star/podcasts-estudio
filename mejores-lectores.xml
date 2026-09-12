@@ -152,5 +152,13 @@
     <itunes:summary>Presentar información instructiva</itunes:summary>
     <itunes:episode>18</itunes:episode>
   </item>
+  <item>
+    <title>Lección 19 · Llegar al corazón</title>
+    <guid isPermaLink="false">th_es_19</guid>
+    <pubDate>Sat, 12 Sep 2026 19:50:42 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec19-llegar-al-corazon.m4a" length="70303602" type="audio/mp4"/>
+    <itunes:summary>Llegar al corazón</itunes:summary>
+    <itunes:episode>19</itunes:episode>
+  </item>
 </channel>
 </rss>

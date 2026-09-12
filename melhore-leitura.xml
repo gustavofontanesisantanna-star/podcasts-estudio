@@ -64,5 +64,13 @@
     <itunes:summary>Use informações verdadeiras</itunes:summary>
     <itunes:episode>7</itunes:episode>
   </item>
+  <item>
+    <title>Lição 8 · Ensine com ilustrações</title>
+    <guid isPermaLink="false">th_pt_08</guid>
+    <pubDate>Sat, 12 Sep 2026 19:54:13 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic08-ensine-com-ilustracoes.m4a" length="114662565" type="audio/mp4"/>
+    <itunes:summary>Ensine com ilustrações</itunes:summary>
+    <itunes:episode>8</itunes:episode>
+  </item>
 </channel>
 </rss>

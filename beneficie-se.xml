@@ -121,6 +121,14 @@
     <itunes:episode>14</itunes:episode>
   </item>
   <item>
+    <title>Estudo 15 · Boa aparência</title>
+    <guid isPermaLink="false">pt_be_15</guid>
+    <pubDate>Sat, 12 Sep 2026 19:54:28 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est15-boa-aparencia.m4a" length="96766782" type="audio/mp4"/>
+    <itunes:summary>Boa aparência</itunes:summary>
+    <itunes:episode>15</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
