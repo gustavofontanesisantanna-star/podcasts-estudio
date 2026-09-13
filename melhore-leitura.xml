@@ -72,5 +72,13 @@
     <itunes:summary>Ensine com ilustrações</itunes:summary>
     <itunes:episode>8</itunes:episode>
   </item>
+  <item>
+    <title>Lição 9 · Use desenhos, fotos e vídeos</title>
+    <guid isPermaLink="false">th_pt_09</guid>
+    <pubDate>Sun, 13 Sep 2026 18:40:26 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic09-use-desenhos-fotos-e-videos.m4a" length="42597140" type="audio/mp4"/>
+    <itunes:summary>Use desenhos, fotos e vídeos</itunes:summary>
+    <itunes:episode>9</itunes:episode>
+  </item>
 </channel>
 </rss>

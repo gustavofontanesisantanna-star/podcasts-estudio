@@ -129,6 +129,14 @@
     <itunes:episode>15</itunes:episode>
   </item>
   <item>
+    <title>Estudo 16 · Equilíbrio</title>
+    <guid isPermaLink="false">pt_be_16</guid>
+    <pubDate>Sun, 13 Sep 2026 18:41:00 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est16-equilibrio.m4a" length="112052603" type="audio/mp4"/>
+    <itunes:summary>Equilíbrio</itunes:summary>
+    <itunes:episode>16</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>

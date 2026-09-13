@@ -160,5 +160,13 @@
     <itunes:summary>Llegar al corazón</itunes:summary>
     <itunes:episode>19</itunes:episode>
   </item>
+  <item>
+    <title>Lección 20 · Hacer una buena conclusión</title>
+    <guid isPermaLink="false">th_es_20</guid>
+    <pubDate>Sun, 13 Sep 2026 18:40:02 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/th-lec20-hacer-una-buena-conclusion.m4a" length="59244401" type="audio/mp4"/>
+    <itunes:summary>Hacer una buena conclusión</itunes:summary>
+    <itunes:episode>20</itunes:episode>
+  </item>
 </channel>
 </rss>
