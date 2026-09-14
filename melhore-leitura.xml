@@ -80,5 +80,13 @@
     <itunes:summary>Use desenhos, fotos e vídeos</itunes:summary>
     <itunes:episode>9</itunes:episode>
   </item>
+  <item>
+    <title>Lição 10 · Mude o volume, a emoção e o ritmo durante a apresentação</title>
+    <guid isPermaLink="false">th_pt_10</guid>
+    <pubDate>Sun, 13 Sep 2026 20:59:03 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic10-mude-o-volume-a-emocao-e-o-ritmo-durante-a-apresentacao.m4a" length="83517285" type="audio/mp4"/>
+    <itunes:summary>Mude o volume, a emoção e o ritmo durante a apresentação</itunes:summary>
+    <itunes:episode>10</itunes:episode>
+  </item>
 </channel>
 </rss>

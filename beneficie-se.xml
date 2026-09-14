@@ -137,6 +137,14 @@
     <itunes:episode>16</itunes:episode>
   </item>
   <item>
+    <title>Estudo 17 · Uso do microfone</title>
+    <guid isPermaLink="false">pt_be_17</guid>
+    <pubDate>Sun, 13 Sep 2026 21:11:47 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est17-uso-do-microfone.m4a" length="92663787" type="audio/mp4"/>
+    <itunes:summary>Uso do microfone</itunes:summary>
+    <itunes:episode>17</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
@@ -151,6 +159,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est29-qualidade-da-voz.m4a" length="70669382" type="audio/mp4"/>
     <itunes:summary>Qualidade da voz</itunes:summary>
     <itunes:episode>29</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 30 · Mostrar interesse nos outros</title>
+    <guid isPermaLink="false">pt_be_30</guid>
+    <pubDate>Sun, 13 Sep 2026 20:55:47 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est30-mostrar-interesse-nos-outros.m4a" length="52550029" type="audio/mp4"/>
+    <itunes:summary>Mostrar interesse nos outros</itunes:summary>
+    <itunes:episode>30</itunes:episode>
   </item>
 </channel>
 </rss>
