@@ -88,5 +88,13 @@
     <itunes:summary>Mude o volume, a emoção e o ritmo durante a apresentação</itunes:summary>
     <itunes:episode>10</itunes:episode>
   </item>
+  <item>
+    <title>Lição 11 · Fale de modo animado</title>
+    <guid isPermaLink="false">th_pt_11</guid>
+    <pubDate>Mon, 14 Sep 2026 19:53:57 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic11-fale-de-modo-animado.m4a" length="79949778" type="audio/mp4"/>
+    <itunes:summary>Fale de modo animado</itunes:summary>
+    <itunes:episode>11</itunes:episode>
+  </item>
 </channel>
 </rss>
