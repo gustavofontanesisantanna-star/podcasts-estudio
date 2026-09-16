@@ -153,6 +153,14 @@
     <itunes:episode>18</itunes:episode>
   </item>
   <item>
+    <title>Estudo 19 · Incentivo ao uso da Bíblia</title>
+    <guid isPermaLink="false">pt_be_19</guid>
+    <pubDate>Wed, 16 Sep 2026 09:48:22 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est19-incentivo-ao-uso-da-biblia.m4a" length="29388731" type="audio/mp4"/>
+    <itunes:summary>Incentivo ao uso da Bíblia</itunes:summary>
+    <itunes:episode>19</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
@@ -183,6 +191,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est31-respeito-pelos-outros.m4a" length="25802563" type="audio/mp4"/>
     <itunes:summary>Respeito pelos outros</itunes:summary>
     <itunes:episode>31</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 32 · Falar com convicção</title>
+    <guid isPermaLink="false">pt_be_32</guid>
+    <pubDate>Wed, 16 Sep 2026 09:48:40 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est32-falar-com-conviccao.m4a" length="28851582" type="audio/mp4"/>
+    <itunes:summary>Falar com convicção</itunes:summary>
+    <itunes:episode>32</itunes:episode>
   </item>
 </channel>
 </rss>

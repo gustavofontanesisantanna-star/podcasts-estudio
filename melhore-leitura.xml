@@ -104,5 +104,13 @@
     <itunes:summary>Seja simpático e mostre que se importa</itunes:summary>
     <itunes:episode>12</itunes:episode>
   </item>
+  <item>
+    <title>Lição 13 · Mostre como colocar o assunto em prática</title>
+    <guid isPermaLink="false">th_pt_13</guid>
+    <pubDate>Wed, 16 Sep 2026 09:48:03 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic13-mostre-como-colocar-o-assunto-em-pratica.m4a" length="29898847" type="audio/mp4"/>
+    <itunes:summary>Mostre como colocar o assunto em prática</itunes:summary>
+    <itunes:episode>13</itunes:episode>
+  </item>
 </channel>
 </rss>
