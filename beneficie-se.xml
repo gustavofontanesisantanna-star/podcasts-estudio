@@ -161,6 +161,14 @@
     <itunes:episode>19</itunes:episode>
   </item>
   <item>
+    <title>Estudo 20 · Introdução eficaz de textos bíblicos</title>
+    <guid isPermaLink="false">pt_be_20</guid>
+    <pubDate>Wed, 16 Sep 2026 19:51:06 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est20-introducao-eficaz-de-textos-biblicos.m4a" length="49162790" type="audio/mp4"/>
+    <itunes:summary>Introdução eficaz de textos bíblicos</itunes:summary>
+    <itunes:episode>20</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
@@ -199,6 +207,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est32-falar-com-conviccao.m4a" length="28851582" type="audio/mp4"/>
     <itunes:summary>Falar com convicção</itunes:summary>
     <itunes:episode>32</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 33 · Falar com tato, mas de modo firme</title>
+    <guid isPermaLink="false">pt_be_33</guid>
+    <pubDate>Wed, 16 Sep 2026 19:47:50 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est33-falar-com-tato-mas-de-modo-firme.m4a" length="26890204" type="audio/mp4"/>
+    <itunes:summary>Falar com tato, mas de modo firme</itunes:summary>
+    <itunes:episode>33</itunes:episode>
   </item>
 </channel>
 </rss>

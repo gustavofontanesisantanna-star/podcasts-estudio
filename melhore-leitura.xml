@@ -112,5 +112,13 @@
     <itunes:summary>Mostre como colocar o assunto em prática</itunes:summary>
     <itunes:episode>13</itunes:episode>
   </item>
+  <item>
+    <title>Lição 14 · Chame atenção para os pontos principais</title>
+    <guid isPermaLink="false">th_pt_14</guid>
+    <pubDate>Wed, 16 Sep 2026 19:47:29 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic14-chame-atencao-para-os-pontos-principais.m4a" length="34449369" type="audio/mp4"/>
+    <itunes:summary>Chame atenção para os pontos principais</itunes:summary>
+    <itunes:episode>14</itunes:episode>
+  </item>
 </channel>
 </rss>
