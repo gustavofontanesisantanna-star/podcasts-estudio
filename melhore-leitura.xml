@@ -120,5 +120,13 @@
     <itunes:summary>Chame atenção para os pontos principais</itunes:summary>
     <itunes:episode>14</itunes:episode>
   </item>
+  <item>
+    <title>Lição 15 · Fale com convicção</title>
+    <guid isPermaLink="false">th_pt_15</guid>
+    <pubDate>Thu, 17 Sep 2026 09:50:23 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic15-fale-com-conviccao.m4a" length="45360481" type="audio/mp4"/>
+    <itunes:summary>Fale com convicção</itunes:summary>
+    <itunes:episode>15</itunes:episode>
+  </item>
 </channel>
 </rss>

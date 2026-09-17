@@ -169,6 +169,14 @@
     <itunes:episode>20</itunes:episode>
   </item>
   <item>
+    <title>Estudo 21 · Leitura de textos com ênfase adequada</title>
+    <guid isPermaLink="false">pt_be_21</guid>
+    <pubDate>Thu, 17 Sep 2026 09:50:36 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est21-leitura-de-textos-com-enfase-adequada.m4a" length="48964626" type="audio/mp4"/>
+    <itunes:summary>Leitura de textos com ênfase adequada</itunes:summary>
+    <itunes:episode>21</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
@@ -215,6 +223,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est33-falar-com-tato-mas-de-modo-firme.m4a" length="26890204" type="audio/mp4"/>
     <itunes:summary>Falar com tato, mas de modo firme</itunes:summary>
     <itunes:episode>33</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 34 · Ser edificante e positivo</title>
+    <guid isPermaLink="false">pt_be_34</guid>
+    <pubDate>Thu, 17 Sep 2026 09:50:49 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est34-ser-edificante-e-positivo.m4a" length="45571380" type="audio/mp4"/>
+    <itunes:summary>Ser edificante e positivo</itunes:summary>
+    <itunes:episode>34</itunes:episode>
   </item>
 </channel>
 </rss>
