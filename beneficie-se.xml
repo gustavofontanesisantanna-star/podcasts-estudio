@@ -177,6 +177,14 @@
     <itunes:episode>21</itunes:episode>
   </item>
   <item>
+    <title>Estudo 22 · Aplicação correta dos textos</title>
+    <guid isPermaLink="false">pt_be_22</guid>
+    <pubDate>Thu, 17 Sep 2026 19:47:32 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est22-aplicacao-correta-dos-textos.m4a" length="49799379" type="audio/mp4"/>
+    <itunes:summary>Aplicação correta dos textos</itunes:summary>
+    <itunes:episode>22</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
@@ -231,6 +239,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est34-ser-edificante-e-positivo.m4a" length="45571380" type="audio/mp4"/>
     <itunes:summary>Ser edificante e positivo</itunes:summary>
     <itunes:episode>34</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 35 · Repetição para dar ênfase</title>
+    <guid isPermaLink="false">pt_be_35</guid>
+    <pubDate>Thu, 17 Sep 2026 19:47:44 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est35-repeticao-para-dar-enfase.m4a" length="37667493" type="audio/mp4"/>
+    <itunes:summary>Repetição para dar ênfase</itunes:summary>
+    <itunes:episode>35</itunes:episode>
   </item>
 </channel>
 </rss>

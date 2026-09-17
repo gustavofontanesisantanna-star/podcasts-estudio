@@ -128,5 +128,13 @@
     <itunes:summary>Fale com convicção</itunes:summary>
     <itunes:episode>15</itunes:episode>
   </item>
+  <item>
+    <title>Lição 16 · Concentre-se em coisas positivas</title>
+    <guid isPermaLink="false">th_pt_16</guid>
+    <pubDate>Thu, 17 Sep 2026 19:47:17 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic16-concentre-se-em-coisas-positivas.m4a" length="34117975" type="audio/mp4"/>
+    <itunes:summary>Concentre-se em coisas positivas</itunes:summary>
+    <itunes:episode>16</itunes:episode>
+  </item>
 </channel>
 </rss>
