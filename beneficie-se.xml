@@ -185,6 +185,14 @@
     <itunes:episode>22</itunes:episode>
   </item>
   <item>
+    <title>Estudo 23 · Esclarecer o valor prático da matéria</title>
+    <guid isPermaLink="false">pt_be_23</guid>
+    <pubDate>Fri, 18 Sep 2026 09:47:19 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est23-esclarecer-o-valor-pratico-da-materia.m4a" length="29618429" type="audio/mp4"/>
+    <itunes:summary>Esclarecer o valor prático da matéria</itunes:summary>
+    <itunes:episode>23</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
@@ -247,6 +255,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est35-repeticao-para-dar-enfase.m4a" length="37667493" type="audio/mp4"/>
     <itunes:summary>Repetição para dar ênfase</itunes:summary>
     <itunes:episode>35</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 36 · Desenvolvimento do tema</title>
+    <guid isPermaLink="false">pt_be_36</guid>
+    <pubDate>Fri, 18 Sep 2026 09:50:37 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est36-desenvolvimento-do-tema.m4a" length="50543019" type="audio/mp4"/>
+    <itunes:summary>Desenvolvimento do tema</itunes:summary>
+    <itunes:episode>36</itunes:episode>
   </item>
 </channel>
 </rss>

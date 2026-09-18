@@ -136,5 +136,13 @@
     <itunes:summary>Concentre-se em coisas positivas</itunes:summary>
     <itunes:episode>16</itunes:episode>
   </item>
+  <item>
+    <title>Lição 17 · Fale de modo fácil de entender</title>
+    <guid isPermaLink="false">th_pt_17</guid>
+    <pubDate>Fri, 18 Sep 2026 09:47:06 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic17-fale-de-modo-facil-de-entender.m4a" length="37161758" type="audio/mp4"/>
+    <itunes:summary>Fale de modo fácil de entender</itunes:summary>
+    <itunes:episode>17</itunes:episode>
+  </item>
 </channel>
 </rss>
