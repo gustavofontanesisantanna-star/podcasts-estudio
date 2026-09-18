@@ -193,6 +193,14 @@
     <itunes:episode>23</itunes:episode>
   </item>
   <item>
+    <title>Estudo 24 · Escolha de palavras</title>
+    <guid isPermaLink="false">pt_be_24</guid>
+    <pubDate>Fri, 18 Sep 2026 19:51:24 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est24-escolha-de-palavras.m4a" length="53352627" type="audio/mp4"/>
+    <itunes:summary>Escolha de palavras</itunes:summary>
+    <itunes:episode>24</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
@@ -263,6 +271,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est36-desenvolvimento-do-tema.m4a" length="50543019" type="audio/mp4"/>
     <itunes:summary>Desenvolvimento do tema</itunes:summary>
     <itunes:episode>36</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 37 · Destacar os pontos principais</title>
+    <guid isPermaLink="false">pt_be_37</guid>
+    <pubDate>Fri, 18 Sep 2026 19:48:05 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est37-destacar-os-pontos-principais.m4a" length="30861587" type="audio/mp4"/>
+    <itunes:summary>Destacar os pontos principais</itunes:summary>
+    <itunes:episode>37</itunes:episode>
   </item>
 </channel>
 </rss>

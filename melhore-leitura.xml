@@ -144,5 +144,13 @@
     <itunes:summary>Fale de modo fácil de entender</itunes:summary>
     <itunes:episode>17</itunes:episode>
   </item>
+  <item>
+    <title>Lição 18 · Use informações interessantes</title>
+    <guid isPermaLink="false">th_pt_18</guid>
+    <pubDate>Fri, 18 Sep 2026 19:47:32 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic18-use-informacoes-interessantes.m4a" length="35658129" type="audio/mp4"/>
+    <itunes:summary>Use informações interessantes</itunes:summary>
+    <itunes:episode>18</itunes:episode>
+  </item>
 </channel>
 </rss>
