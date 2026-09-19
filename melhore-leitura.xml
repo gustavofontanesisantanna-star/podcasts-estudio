@@ -160,5 +160,13 @@
     <itunes:summary>Toque o coração das pessoas</itunes:summary>
     <itunes:episode>19</itunes:episode>
   </item>
+  <item>
+    <title>Lição 20 · Faça uma boa conclusão</title>
+    <guid isPermaLink="false">th_pt_20</guid>
+    <pubDate>Sat, 19 Sep 2026 19:47:09 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic20-faca-uma-boa-conclusao.m4a" length="36628348" type="audio/mp4"/>
+    <itunes:summary>Faça uma boa conclusão</itunes:summary>
+    <itunes:episode>20</itunes:episode>
+  </item>
 </channel>
 </rss>

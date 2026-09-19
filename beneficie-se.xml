@@ -209,6 +209,14 @@
     <itunes:episode>25</itunes:episode>
   </item>
   <item>
+    <title>Estudo 26 · Apresentação lógica da matéria</title>
+    <guid isPermaLink="false">pt_be_26</guid>
+    <pubDate>Sat, 19 Sep 2026 19:47:24 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est26-apresentacao-logica-da-materia.m4a" length="41216272" type="audio/mp4"/>
+    <itunes:summary>Apresentação lógica da matéria</itunes:summary>
+    <itunes:episode>26</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
@@ -295,6 +303,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est38-introducao-que-desperta-interesse.m4a" length="26341099" type="audio/mp4"/>
     <itunes:summary>Introdução que desperta interesse</itunes:summary>
     <itunes:episode>38</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 39 · Conclusão eficaz</title>
+    <guid isPermaLink="false">pt_be_39</guid>
+    <pubDate>Sat, 19 Sep 2026 19:47:36 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est39-conclusao-eficaz.m4a" length="35249711" type="audio/mp4"/>
+    <itunes:summary>Conclusão eficaz</itunes:summary>
+    <itunes:episode>39</itunes:episode>
   </item>
 </channel>
 </rss>
