@@ -152,5 +152,13 @@
     <itunes:summary>Use informações interessantes</itunes:summary>
     <itunes:episode>18</itunes:episode>
   </item>
+  <item>
+    <title>Lição 19 · Toque o coração das pessoas</title>
+    <guid isPermaLink="false">th_pt_19</guid>
+    <pubDate>Sat, 19 Sep 2026 09:47:13 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/thpt-lic19-toque-o-coracao-das-pessoas.m4a" length="25426316" type="audio/mp4"/>
+    <itunes:summary>Toque o coração das pessoas</itunes:summary>
+    <itunes:episode>19</itunes:episode>
+  </item>
 </channel>
 </rss>

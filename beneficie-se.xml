@@ -201,6 +201,14 @@
     <itunes:episode>24</itunes:episode>
   </item>
   <item>
+    <title>Estudo 25 · Uso de esboço</title>
+    <guid isPermaLink="false">pt_be_25</guid>
+    <pubDate>Sat, 19 Sep 2026 09:47:27 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est25-uso-de-esboco.m4a" length="28261341" type="audio/mp4"/>
+    <itunes:summary>Uso de esboço</itunes:summary>
+    <itunes:episode>25</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
@@ -279,6 +287,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est37-destacar-os-pontos-principais.m4a" length="30861587" type="audio/mp4"/>
     <itunes:summary>Destacar os pontos principais</itunes:summary>
     <itunes:episode>37</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 38 · Introdução que desperta interesse</title>
+    <guid isPermaLink="false">pt_be_38</guid>
+    <pubDate>Sat, 19 Sep 2026 09:47:40 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est38-introducao-que-desperta-interesse.m4a" length="26341099" type="audio/mp4"/>
+    <itunes:summary>Introdução que desperta interesse</itunes:summary>
+    <itunes:episode>38</itunes:episode>
   </item>
 </channel>
 </rss>
