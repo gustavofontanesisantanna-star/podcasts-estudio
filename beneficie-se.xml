@@ -217,6 +217,14 @@
     <itunes:episode>26</itunes:episode>
   </item>
   <item>
+    <title>Estudo 27 · Proferimento espontâneo</title>
+    <guid isPermaLink="false">pt_be_27</guid>
+    <pubDate>Sun, 20 Sep 2026 09:50:38 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est27-proferimento-espontaneo.m4a" length="51924644" type="audio/mp4"/>
+    <itunes:summary>Proferimento espontâneo</itunes:summary>
+    <itunes:episode>27</itunes:episode>
+  </item>
+  <item>
     <title>Estudo 28 · Estilo conversante</title>
     <guid isPermaLink="false">pt_be_28</guid>
     <pubDate>Tue, 25 Aug 2026 10:04:35 -0300</pubDate>
@@ -311,6 +319,14 @@
     <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est39-conclusao-eficaz.m4a" length="35249711" type="audio/mp4"/>
     <itunes:summary>Conclusão eficaz</itunes:summary>
     <itunes:episode>39</itunes:episode>
+  </item>
+  <item>
+    <title>Estudo 40 · Exatidão das declarações</title>
+    <guid isPermaLink="false">pt_be_40</guid>
+    <pubDate>Sun, 20 Sep 2026 09:47:18 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est40-exatidao-das-declaracoes.m4a" length="22492340" type="audio/mp4"/>
+    <itunes:summary>Exatidão das declarações</itunes:summary>
+    <itunes:episode>40</itunes:episode>
   </item>
 </channel>
 </rss>
