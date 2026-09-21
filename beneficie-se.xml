@@ -336,5 +336,13 @@
     <itunes:summary>Clareza</itunes:summary>
     <itunes:episode>41</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 42 · Apresentação instrutiva</title>
+    <guid isPermaLink="false">pt_be_42</guid>
+    <pubDate>Mon, 21 Sep 2026 10:41:44 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est42-apresentacao-instrutiva.m4a" length="49364046" type="audio/mp4"/>
+    <itunes:summary>Apresentação instrutiva</itunes:summary>
+    <itunes:episode>42</itunes:episode>
+  </item>
 </channel>
 </rss>
