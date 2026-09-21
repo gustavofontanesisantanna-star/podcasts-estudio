@@ -344,5 +344,13 @@
     <itunes:summary>Apresentação instrutiva</itunes:summary>
     <itunes:episode>42</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 43 · Usar a matéria designada</title>
+    <guid isPermaLink="false">pt_be_43</guid>
+    <pubDate>Mon, 21 Sep 2026 19:45:32 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est43-usar-a-materia-designada.m4a" length="49156794" type="audio/mp4"/>
+    <itunes:summary>Usar a matéria designada</itunes:summary>
+    <itunes:episode>43</itunes:episode>
+  </item>
 </channel>
 </rss>
