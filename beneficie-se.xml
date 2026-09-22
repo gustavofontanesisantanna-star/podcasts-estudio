@@ -352,5 +352,13 @@
     <itunes:summary>Usar a matéria designada</itunes:summary>
     <itunes:episode>43</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 44 · Uso eficaz de perguntas</title>
+    <guid isPermaLink="false">pt_be_44</guid>
+    <pubDate>Tue, 22 Sep 2026 09:45:25 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est44-uso-eficaz-de-perguntas.m4a" length="44777746" type="audio/mp4"/>
+    <itunes:summary>Uso eficaz de perguntas</itunes:summary>
+    <itunes:episode>44</itunes:episode>
+  </item>
 </channel>
 </rss>
