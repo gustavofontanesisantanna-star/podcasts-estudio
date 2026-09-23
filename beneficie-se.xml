@@ -368,5 +368,13 @@
     <itunes:summary>Ilustrações instrutivas</itunes:summary>
     <itunes:episode>45</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 46 · Ilustrações baseadas em situações conhecidas</title>
+    <guid isPermaLink="false">pt_be_46</guid>
+    <pubDate>Wed, 23 Sep 2026 09:42:25 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est46-ilustracoes-baseadas-em-situacoes-conhecidas.m4a" length="39641616" type="audio/mp4"/>
+    <itunes:summary>Ilustrações baseadas em situações conhecidas</itunes:summary>
+    <itunes:episode>46</itunes:episode>
+  </item>
 </channel>
 </rss>
