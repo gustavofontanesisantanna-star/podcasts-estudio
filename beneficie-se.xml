@@ -376,5 +376,13 @@
     <itunes:summary>Ilustrações baseadas em situações conhecidas</itunes:summary>
     <itunes:episode>46</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 47 · Uso eficaz de recursos visuais</title>
+    <guid isPermaLink="false">pt_be_47</guid>
+    <pubDate>Wed, 23 Sep 2026 19:44:17 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est47-uso-eficaz-de-recursos-visuais.m4a" length="56386069" type="audio/mp4"/>
+    <itunes:summary>Uso eficaz de recursos visuais</itunes:summary>
+    <itunes:episode>47</itunes:episode>
+  </item>
 </channel>
 </rss>
