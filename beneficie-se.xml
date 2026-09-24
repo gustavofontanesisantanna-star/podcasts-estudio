@@ -384,5 +384,13 @@
     <itunes:summary>Uso eficaz de recursos visuais</itunes:summary>
     <itunes:episode>47</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 48 · Argumentação que estimula o raciocínio</title>
+    <guid isPermaLink="false">pt_be_48</guid>
+    <pubDate>Thu, 24 Sep 2026 09:45:17 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est48-argumentacao-que-estimula-o-raciocinio.m4a" length="45016308" type="audio/mp4"/>
+    <itunes:summary>Argumentação que estimula o raciocínio</itunes:summary>
+    <itunes:episode>48</itunes:episode>
+  </item>
 </channel>
 </rss>
