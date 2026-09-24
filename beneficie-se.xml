@@ -392,5 +392,13 @@
     <itunes:summary>Argumentação que estimula o raciocínio</itunes:summary>
     <itunes:episode>48</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 49 · Argumentos convincentes</title>
+    <guid isPermaLink="false">pt_be_49</guid>
+    <pubDate>Thu, 24 Sep 2026 19:42:24 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est49-argumentos-convincentes.m4a" length="38310069" type="audio/mp4"/>
+    <itunes:summary>Argumentos convincentes</itunes:summary>
+    <itunes:episode>49</itunes:episode>
+  </item>
 </channel>
 </rss>
