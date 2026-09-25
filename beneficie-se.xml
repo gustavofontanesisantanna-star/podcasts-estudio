@@ -408,5 +408,13 @@
     <itunes:summary>Tocar o coração</itunes:summary>
     <itunes:episode>50</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 51 · Controle e boa distribuição do tempo</title>
+    <guid isPermaLink="false">pt_be_51</guid>
+    <pubDate>Fri, 25 Sep 2026 19:42:26 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est51-controle-e-boa-distribuicao-do-tempo.m4a" length="39684978" type="audio/mp4"/>
+    <itunes:summary>Controle e boa distribuição do tempo</itunes:summary>
+    <itunes:episode>51</itunes:episode>
+  </item>
 </channel>
 </rss>
