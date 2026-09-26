@@ -424,5 +424,13 @@
     <itunes:summary>Exortação eficaz</itunes:summary>
     <itunes:episode>52</itunes:episode>
   </item>
+  <item>
+    <title>Estudo 53 · Encorajar e fortalecer os ouvintes</title>
+    <guid isPermaLink="false">pt_be_53</guid>
+    <pubDate>Sat, 26 Sep 2026 19:42:25 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/bept-est53-encorajar-e-fortalecer-os-ouvintes.m4a" length="54498714" type="audio/mp4"/>
+    <itunes:summary>Encorajar e fortalecer os ouvintes</itunes:summary>
+    <itunes:episode>53</itunes:episode>
+  </item>
 </channel>
 </rss>
