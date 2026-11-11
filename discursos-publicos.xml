@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Discursos públicos — bosquejos</title>
+  <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
+  <language>es-ES</language>
+  <description>Un episodio por cada discurso público previsto en la reunión del fin de semana, a partir de su bosquejo. Audio generado con NotebookLM, en español. Uso personal.</description>
+  <itunes:author>NotebookLM (uso personal)</itunes:author>
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/discursos-publicos.png"/>
+  <item>
+    <title>Discurso 34 · ¿Tendrá usted la marca para sobrevivir?</title>
+    <guid isPermaLink="false">disc_es_034</guid>
+    <pubDate>Wed, 11 Nov 2026 11:26:42 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/discurso-disc-es-034.m4a" length="30874279" type="audio/mp4"/>
+    <itunes:summary>Discurso 34 · ¿Tendrá usted la marca para sobrevivir?</itunes:summary>
+  </item>
+</channel>
+</rss>
