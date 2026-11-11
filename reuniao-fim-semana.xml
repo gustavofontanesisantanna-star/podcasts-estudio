@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Reunião do fim de semana — áudios</title>
+  <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
+  <language>pt-BR</language>
+  <description>Os áudios oficiais do jw.org da reunião do fim de semana: cânticos (versão cantada) e o artigo de estudo de A Sentinela. Uso pessoal.</description>
+  <itunes:author>jw.org (áudios oficiais) · uso pessoal</itunes:author>
+  <itunes:type>serial</itunes:type>
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/reuniao-fim-semana.png"/>
+  <item>
+    <title>Cântico 84 · Vamos fazer nosso melhor</title>
+    <description>Reunião do fim de semana · 16-22 de novembro · parte 1 de 2</description>
+    <guid isPermaLink="false">reu-finde_pt-2026-11-16-cancion-w-ini-84</guid>
+    <pubDate>Wed, 11 Nov 2026 10:31:28 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/605a87/1/o/sjjc_T_084.mp3" length="6796165" type="audio/mpeg"/>
+    <itunes:duration>211</itunes:duration>
+    <itunes:season>47</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>A Sentinela · Pregando as boas novas em “todas as línguas das nações”</title>
+    <description>Reunião do fim de semana · 16-22 de novembro · parte 2 de 2</description>
+    <guid isPermaLink="false">reu-finde_pt-2026-11-16-atalaya-2026562</guid>
+    <pubDate>Wed, 11 Nov 2026 10:31:29 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/b8dc2c/1/o/w_T_202609_03.mp3" length="9524238" type="audio/mpeg"/>
+    <itunes:duration>1181</itunes:duration>
+    <itunes:season>47</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>A Sentinela · Como desenvolver “um coração obediente”</title>
+    <description>Reunião do fim de semana · 9-15 de novembro · parte 1 de 2</description>
+    <guid isPermaLink="false">reu-finde_pt-2026-11-09-atalaya-2026561</guid>
+    <pubDate>Wed, 11 Nov 2026 10:31:17 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/5fb17a6/1/o/w_T_202609_02.mp3" length="9174726" type="audio/mpeg"/>
+    <itunes:duration>1140</itunes:duration>
+    <itunes:season>46</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Cântico 88 · Os teus caminhos quero entender</title>
+    <description>Reunião do fim de semana · 9-15 de novembro · parte 2 de 2</description>
+    <guid isPermaLink="false">reu-finde_pt-2026-11-09-cancion-w-fin-88</guid>
+    <pubDate>Wed, 11 Nov 2026 10:31:18 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/33eddcc/1/o/sjjc_T_088.mp3" length="6078990" type="audio/mpeg"/>
+    <itunes:duration>189</itunes:duration>
+    <itunes:season>46</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+</channel>
+</rss>

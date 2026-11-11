@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Reunión del fin de semana — audios</title>
+  <link>https://gustavofontanesisantanna-star.github.io/podcasts-estudio</link>
+  <language>es-ES</language>
+  <description>Los audios oficiales de jw.org de la reunión del fin de semana: canciones (versión cantada) y el artículo de estudio de La Atalaya. Uso personal.</description>
+  <itunes:author>jw.org (audios oficiales) · uso personal</itunes:author>
+  <itunes:type>serial</itunes:type>
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/reunion-fin-semana.png"/>
+  <item>
+    <title>Canción 84 · Servimos donde se nos necesite</title>
+    <description>Reunión del fin de semana · 16-22 de noviembre · parte 1 de 3</description>
+    <guid isPermaLink="false">reu-finde_es-2026-11-16-cancion-w-ini-84</guid>
+    <pubDate>Wed, 11 Nov 2026 10:31:27 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/2c68e30/1/o/sjjc_S_084.mp3" length="6818639" type="audio/mpeg"/>
+    <itunes:duration>212</itunes:duration>
+    <itunes:season>47</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>La Atalaya · Predicamos las buenas noticias en &quot;todos los idiomas de las naciones&quot;</title>
+    <description>Reunión del fin de semana · 16-22 de noviembre · parte 2 de 3</description>
+    <guid isPermaLink="false">reu-finde_es-2026-11-16-atalaya-2026562</guid>
+    <pubDate>Wed, 11 Nov 2026 10:31:28 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/f18bf7/1/o/w_S_202609_03.mp3" length="9928260" type="audio/mpeg"/>
+    <itunes:duration>1231</itunes:duration>
+    <itunes:season>47</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Canción 57 · Predicamos a toda clase de personas</title>
+    <description>Reunión del fin de semana · 16-22 de noviembre · parte 3 de 3</description>
+    <guid isPermaLink="false">reu-finde_es-2026-11-16-cancion-w-fin-57</guid>
+    <pubDate>Wed, 11 Nov 2026 10:31:29 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/cb580b8/1/o/sjjc_S_057.mp3" length="6432294" type="audio/mpeg"/>
+    <itunes:duration>200</itunes:duration>
+    <itunes:season>47</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>La Atalaya · Cómo cultivar &quot;un corazón obediente&quot;</title>
+    <description>Reunión del fin de semana · 9-15 de noviembre · parte 1 de 2</description>
+    <guid isPermaLink="false">reu-finde_es-2026-11-09-atalaya-2026561</guid>
+    <pubDate>Wed, 11 Nov 2026 10:31:17 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/bae826/1/o/w_S_202609_02.mp3" length="9425537" type="audio/mpeg"/>
+    <itunes:duration>1171</itunes:duration>
+    <itunes:season>46</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Canción 88 · Hazme conocer tus caminos</title>
+    <description>Reunión del fin de semana · 9-15 de noviembre · parte 2 de 2</description>
+    <guid isPermaLink="false">reu-finde_es-2026-11-09-cancion-w-fin-88</guid>
+    <pubDate>Wed, 11 Nov 2026 10:31:18 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/2b9a48/1/o/sjjc_S_088.mp3" length="6090646" type="audio/mpeg"/>
+    <itunes:duration>189</itunes:duration>
+    <itunes:season>46</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+</channel>
+</rss>
