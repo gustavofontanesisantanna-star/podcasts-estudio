@@ -10,6 +10,94 @@
   <itunes:block>Yes</itunes:block>
   <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/reunion-entre-semana.png"/>
   <item>
+    <title>Canción 158 · Danos paciencia</title>
+    <description>Reunión de entre semana · 23-29 de noviembre · parte 1 de 8</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-23-cancion-ini-158</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:24 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/1f1ac9/1/o/sjjc_S_158.mp3" length="8024658" type="audio/mpeg"/>
+    <itunes:duration>249</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Guía de actividades · 23-29 de noviembre</title>
+    <description>Reunión de entre semana · 23-29 de noviembre · parte 2 de 8</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-23-guia</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:25 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/5ca31db/1/o/mwb_S_202611_04.mp3" length="2590302" type="audio/mpeg"/>
+    <itunes:duration>317</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Lectura de la Biblia · Lamentaciones 3</title>
+    <description>Reunión de entre semana · 23-29 de noviembre · parte 3 de 8</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-23-biblia-25-3</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:26 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/a1cc8f/1/o/nwt_25_La_S_03.mp3" length="3186821" type="audio/mpeg"/>
+    <itunes:duration>393</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Lectura de la Biblia · Lamentaciones 5</title>
+    <description>Reunión de entre semana · 23-29 de noviembre · parte 4 de 8</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-23-biblia-25-5</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:27 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/9c1def/1/o/nwt_25_La_S_05.mp3" length="1429140" type="audio/mpeg"/>
+    <itunes:duration>173</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Canción 109 · Amémonos de todo corazón</title>
+    <description>Reunión de entre semana · 23-29 de noviembre · parte 5 de 8</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-23-cancion-med-109</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:28 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/6f9113/1/o/sjjc_S_109.mp3" length="7080615" type="audio/mpeg"/>
+    <itunes:duration>220</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Video · Consuelo para los cuidadores</title>
+    <description>Reunión de entre semana · 23-29 de noviembre · parte 6 de 8</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-23-video-pub-jwb-130_5_VIDEO</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:29 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/video-S-pub-jwb-130-5-video.m4a" length="5295259" type="audio/mp4"/>
+    <itunes:duration>327</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Estudio bíblico · CAPÍTULO 18 | GEDEÓN: Valiente pero prudente</title>
+    <description>Reunión de entre semana · 23-29 de noviembre · parte 7 de 8</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-23-estudio-1102025918</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:30 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/3160c70/1/o/wcg_S_22.mp3" length="10399767" type="audio/mpeg"/>
+    <itunes:duration>646</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Canción 74 · Ven a cantar la gran canción del Reino</title>
+    <description>Reunión de entre semana · 23-29 de noviembre · parte 8 de 8</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-23-cancion-fin-74</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:31 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/f51f9a/1/o/sjjc_S_074.mp3" length="7014969" type="audio/mpeg"/>
+    <itunes:duration>218</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
     <title>Canción 28 · Cómo hacernos amigos de Jehová</title>
     <description>Reunión de entre semana · 16-22 de noviembre · parte 1 de 8</description>
     <guid isPermaLink="false">reu-entre_es-2026-11-16-cancion-ini-28</guid>

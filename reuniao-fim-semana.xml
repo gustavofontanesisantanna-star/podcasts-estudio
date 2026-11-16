@@ -10,6 +10,39 @@
   <itunes:block>Yes</itunes:block>
   <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/reuniao-fim-semana.png"/>
   <item>
+    <title>Cântico 107 · Jeová — o exemplo perfeito de amor</title>
+    <description>Reunião do fim de semana · 23-29 de novembro · parte 1 de 3</description>
+    <guid isPermaLink="false">reu-finde_pt-2026-11-23-cancion-w-ini-107</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:29 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/989316/1/o/sjjc_T_107.mp3" length="7014305" type="audio/mpeg"/>
+    <itunes:duration>218</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>A Sentinela · Como a provisão do sacerdócio mostra que Jeová nos ama</title>
+    <description>Reunião do fim de semana · 23-29 de novembro · parte 2 de 3</description>
+    <guid isPermaLink="false">reu-finde_pt-2026-11-23-atalaya-2026565</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:30 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/c2da2ee/1/o/w_T_202609_04.mp3" length="8803494" type="audio/mpeg"/>
+    <itunes:duration>1094</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Cântico 16 · Jeová escolheu nosso Rei</title>
+    <description>Reunião do fim de semana · 23-29 de novembro · parte 3 de 3</description>
+    <guid isPermaLink="false">reu-finde_pt-2026-11-23-cancion-w-fin-16</guid>
+    <pubDate>Mon, 16 Nov 2026 09:33:31 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/a82bd5/1/o/sjjc_T_016.mp3" length="7075216" type="audio/mpeg"/>
+    <itunes:duration>220</itunes:duration>
+    <itunes:season>48</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
     <title>Cântico 84 · Vamos fazer nosso melhor</title>
     <description>Reunião do fim de semana · 16-22 de novembro · parte 1 de 2</description>
     <guid isPermaLink="false">reu-finde_pt-2026-11-16-cancion-w-ini-84</guid>
