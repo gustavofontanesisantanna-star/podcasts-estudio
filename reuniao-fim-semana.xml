@@ -10,6 +10,39 @@
   <itunes:block>Yes</itunes:block>
   <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/reuniao-fim-semana.png"/>
   <item>
+    <title>Cântico 22 · Que venha o reino de Deus!</title>
+    <description>Reunião do fim de semana · 30 de novembro–6 de dezembro · parte 1 de 3</description>
+    <guid isPermaLink="false">reu-finde_pt-2026-11-30-cancion-w-ini-22</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:13 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/2615a02/1/o/sjjc_T_022.mp3" length="7147933" type="audio/mpeg"/>
+    <itunes:duration>222</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>A Sentinela · Proteja-se contra “o espírito do mundo”</title>
+    <description>Reunião do fim de semana · 30 de novembro–6 de dezembro · parte 2 de 3</description>
+    <guid isPermaLink="false">reu-finde_pt-2026-11-30-atalaya-2026566</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:14 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/1e20b4/1/o/w_T_202609_05.mp3" length="8292150" type="audio/mpeg"/>
+    <itunes:duration>1029</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Cântico 124 · Sempre leais</title>
+    <description>Reunião do fim de semana · 30 de novembro–6 de dezembro · parte 3 de 3</description>
+    <guid isPermaLink="false">reu-finde_pt-2026-11-30-cancion-w-fin-124</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:15 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/7b9afac/1/o/sjjc_T_124.mp3" length="8287215" type="audio/mpeg"/>
+    <itunes:duration>258</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
     <title>Cântico 107 · Jeová — o exemplo perfeito de amor</title>
     <description>Reunião do fim de semana · 23-29 de novembro · parte 1 de 3</description>
     <guid isPermaLink="false">reu-finde_pt-2026-11-23-cancion-w-ini-107</guid>

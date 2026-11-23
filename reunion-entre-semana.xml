@@ -10,6 +10,83 @@
   <itunes:block>Yes</itunes:block>
   <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/reunion-entre-semana.png"/>
   <item>
+    <title>Guía de actividades · 30 de noviembre a 6 de diciembre</title>
+    <description>Reunión de entre semana · 30 de noviembre a 6 de diciembre · parte 1 de 7</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-30-guia</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:09 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/972af8b/1/o/mwb_S_202611_05.mp3" length="2767723" type="audio/mpeg"/>
+    <itunes:duration>338</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Video · Información sobre Ezequiel</title>
+    <description>Reunión de entre semana · 30 de noviembre a 6 de diciembre · parte 2 de 7</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-30-video-pub-nwtsv_260_VIDEO</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:10 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/video-S-pub-nwtsv-260-video.m4a" length="4067078" type="audio/mp4"/>
+    <itunes:duration>251</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Lectura de la Biblia · Ezequiel 1</title>
+    <description>Reunión de entre semana · 30 de noviembre a 6 de diciembre · parte 3 de 7</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-30-biblia-26-1</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:11 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/a04151/1/o/nwt_26_Eze_S_01.mp3" length="2629536" type="audio/mpeg"/>
+    <itunes:duration>323</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Lectura de la Biblia · Ezequiel 2</title>
+    <description>Reunión de entre semana · 30 de noviembre a 6 de diciembre · parte 4 de 7</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-30-biblia-26-2</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:12 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/7bfc58/1/o/nwt_26_Eze_S_02.mp3" length="937864" type="audio/mpeg"/>
+    <itunes:duration>112</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Canción 63 · ¡Soy testigo de Jehová!</title>
+    <description>Reunión de entre semana · 30 de noviembre a 6 de diciembre · parte 5 de 7</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-30-cancion-med-63</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:13 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/d438189/1/o/sjjc_S_063.mp3" length="6555879" type="audio/mpeg"/>
+    <itunes:duration>204</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Estudio bíblico · CAPÍTULO 19 | JEFTÉ Y SU HIJA: Cumplieron un voto muy difícil</title>
+    <description>Reunión de entre semana · 30 de noviembre a 6 de diciembre · parte 6 de 7</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-30-estudio-1102025919</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:14 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/0ef008b/2/o/wcg_S_23.mp3" length="9993465" type="audio/mpeg"/>
+    <itunes:duration>621</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Canción 134 · Los hijos son un regalo de Dios</title>
+    <description>Reunión de entre semana · 30 de noviembre a 6 de diciembre · parte 7 de 7</description>
+    <guid isPermaLink="false">reu-entre_es-2026-11-30-cancion-fin-134</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:15 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/c74dce/1/o/sjjc_S_134.mp3" length="5048545" type="audio/mpeg"/>
+    <itunes:duration>157</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
     <title>Canción 158 · Danos paciencia</title>
     <description>Reunión de entre semana · 23-29 de noviembre · parte 1 de 8</description>
     <guid isPermaLink="false">reu-entre_es-2026-11-23-cancion-ini-158</guid>

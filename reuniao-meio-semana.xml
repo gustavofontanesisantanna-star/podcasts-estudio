@@ -10,6 +10,83 @@
   <itunes:block>Yes</itunes:block>
   <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/reuniao-meio-semana.png"/>
   <item>
+    <title>Apostila · 30 de novembro–6 de dezembro</title>
+    <description>Reunião do meio de semana · 30 de novembro–6 de dezembro · parte 1 de 7</description>
+    <guid isPermaLink="false">reu-entre_pt-2026-11-30-guia</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:09 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/3140155/1/o/mwb_T_202611_05.mp3" length="2715827" type="audio/mpeg"/>
+    <itunes:duration>332</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Vídeo · Introdução a Ezequiel</title>
+    <description>Reunião do meio de semana · 30 de novembro–6 de dezembro · parte 2 de 7</description>
+    <guid isPermaLink="false">reu-entre_pt-2026-11-30-video-pub-nwtsv_260_VIDEO</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:10 -0300</pubDate>
+    <enclosure url="https://github.com/gustavofontanesisantanna-star/podcasts-estudio/releases/download/audios/video-T-pub-nwtsv-260-video.m4a" length="4067092" type="audio/mp4"/>
+    <itunes:duration>251</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Leitura da Bíblia · Ezequiel 1</title>
+    <description>Reunião do meio de semana · 30 de novembro–6 de dezembro · parte 3 de 7</description>
+    <guid isPermaLink="false">reu-entre_pt-2026-11-30-biblia-26-1</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:11 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/446906/1/o/nwt_26_Eze_T_01.mp3" length="3601139" type="audio/mpeg"/>
+    <itunes:duration>297</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Leitura da Bíblia · Ezequiel 2</title>
+    <description>Reunião do meio de semana · 30 de novembro–6 de dezembro · parte 4 de 7</description>
+    <guid isPermaLink="false">reu-entre_pt-2026-11-30-biblia-26-2</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:12 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/8d7ce1/1/o/nwt_26_Eze_T_02.mp3" length="1281612" type="audio/mpeg"/>
+    <itunes:duration>104</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Cântico 63 · Somos Testemunhas de Jeová!</title>
+    <description>Reunião do meio de semana · 30 de novembro–6 de dezembro · parte 5 de 7</description>
+    <guid isPermaLink="false">reu-entre_pt-2026-11-30-cancion-med-63</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:13 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/f293a5/1/o/sjjc_T_063.mp3" length="6565119" type="audio/mpeg"/>
+    <itunes:duration>204</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Estudo bíblico · CAPÍTULO 19: JEFTÉ E SUA FILHA — Eles cumpriram um voto que exigiu um grande sacrifício</title>
+    <description>Reunião do meio de semana · 30 de novembro–6 de dezembro · parte 6 de 7</description>
+    <guid isPermaLink="false">reu-entre_pt-2026-11-30-estudio-1102025919</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:14 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/18acfb8/1/o/wcg_T_23.mp3" length="9193984" type="audio/mpeg"/>
+    <itunes:duration>571</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Cântico 134 · Os filhos são uma herança de Deus</title>
+    <description>Reunião do meio de semana · 30 de novembro–6 de dezembro · parte 7 de 7</description>
+    <guid isPermaLink="false">reu-entre_pt-2026-11-30-cancion-fin-134</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:15 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/1317ea/1/o/sjjc_T_134.mp3" length="5048571" type="audio/mpeg"/>
+    <itunes:duration>157</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
     <title>Cântico 158 · ‘Não vai se atrasar!’</title>
     <description>Reunião do meio de semana · 23-29 de novembro · parte 1 de 8</description>
     <guid isPermaLink="false">reu-entre_pt-2026-11-23-cancion-ini-158</guid>

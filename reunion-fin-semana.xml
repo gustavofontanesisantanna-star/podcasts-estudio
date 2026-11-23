@@ -10,6 +10,39 @@
   <itunes:block>Yes</itunes:block>
   <itunes:image href="https://gustavofontanesisantanna-star.github.io/podcasts-estudio/reunion-fin-semana.png"/>
   <item>
+    <title>Canción 22 · ¡Que venga el Reino que Dios ha establecido!</title>
+    <description>Reunión del fin de semana · 30 de noviembre a 6 de diciembre · parte 1 de 3</description>
+    <guid isPermaLink="false">reu-finde_es-2026-11-30-cancion-w-ini-22</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:13 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/b2fb12/1/o/sjjc_S_022.mp3" length="6979070" type="audio/mpeg"/>
+    <itunes:duration>217</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>La Atalaya · Evitemos &quot;el espíritu del mundo&quot;</title>
+    <description>Reunión del fin de semana · 30 de noviembre a 6 de diciembre · parte 2 de 3</description>
+    <guid isPermaLink="false">reu-finde_es-2026-11-30-atalaya-2026566</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:14 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/c40acd/1/o/w_S_202609_05.mp3" length="8602918" type="audio/mpeg"/>
+    <itunes:duration>1067</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Canción 124 · Siempre fieles y leales</title>
+    <description>Reunión del fin de semana · 30 de noviembre a 6 de diciembre · parte 3 de 3</description>
+    <guid isPermaLink="false">reu-finde_es-2026-11-30-cancion-w-fin-124</guid>
+    <pubDate>Mon, 23 Nov 2026 09:33:15 -0300</pubDate>
+    <enclosure url="https://cfp2.jw-cdn.org/a/762122/1/o/sjjc_S_124.mp3" length="8278279" type="audio/mpeg"/>
+    <itunes:duration>257</itunes:duration>
+    <itunes:season>49</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
     <title>Canción 107 · Dios nos enseñó a amar</title>
     <description>Reunión del fin de semana · 23-29 de noviembre · parte 1 de 3</description>
     <guid isPermaLink="false">reu-finde_es-2026-11-23-cancion-w-ini-107</guid>
